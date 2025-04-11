@@ -1,0 +1,3518 @@
+[
+    {
+      "name":"India",
+      "states":[
+         {
+           "name":"Andhra Pradesh",
+           "districts":[
+            {
+             "name":"westgodavari",
+             "categories":[
+               {
+               "name":"food",
+               "products":[
+                   {
+                       "name": "Pesarattu",
+                       "desc": "A traditional Andhra pancake made from green gram, served with ginger chutney or upma.",
+                       "cost": 50,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716562529/download_y1qbpu.jpg",
+                       "quantity": "1 plate",
+                       "location": {
+                           "lat": 16.949059,
+                           "long": 81.775883
+                       },
+                       "address": "Eluru, West Godavari, Andhra Pradesh, 534001",
+                       "sellers": [
+                           {
+                               "name": "Eluru Tiffin Center",
+                               "address": "Main Road, Eluru, Andhra Pradesh, 534001",
+                               "contact": "08812-240936"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Gutti Vankaya Kura",
+                       "desc": "A spicy and flavorful stuffed brinjal curry, a staple in Andhra cuisine.",
+                       "cost": 120,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716562530/download_1_pitail.jpg",
+                       "quantity": "1 serving",
+                       "location": {
+                           "lat": 16.939132,
+                           "long": 81.674789
+                       },
+                       "address": "Bhimavaram, West Godavari, Andhra Pradesh, 534202",
+                       "sellers": [
+                           {
+                               "name": "Bhimavaram Restaurant",
+                               "address": "Narasapuram Road, Bhimavaram, Andhra Pradesh, 534202",
+                               "contact": "08816-229444"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Pootharekulu",
+                       "desc": "A famous sweet from Andhra Pradesh made with thin rice starch layers, ghee, and sugar or jaggery.",
+                       "cost": 200,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716562529/download_2_rjm8ik.jpg",
+                       "quantity": "500 grams",
+                       "location": {
+                           "lat": 16.888516,
+                           "long": 81.691833
+                       },
+                       "address": "Palakollu, West Godavari, Andhra Pradesh, 534260",
+                       "sellers": [
+                           {
+                               "name": "Palakollu Sweets",
+                               "address": "Market Street, Palakollu, Andhra Pradesh, 534260",
+                               "contact": "08814-221890"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Royyala Iguru",
+                       "desc": "A spicy prawn curry made with fresh prawns, onions, tomatoes, and aromatic spices.",
+                       "cost": 250,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716562530/download_3_juz6kk.jpg",
+                       "quantity": "1 serving",
+                       "location": {
+                           "lat": 16.778545,
+                           "long": 81.684401
+                       },
+                       "address": "Narsapur, West Godavari, Andhra Pradesh, 534275",
+                       "sellers": [
+                           {
+                               "name": "Narsapur Coastal Cuisine",
+                               "address": "Beach Road, Narsapur, Andhra Pradesh, 534275",
+                               "contact": "08812-273445"
+                           }
+                       ]
+                   }
+                ]
+               },
+               {
+               "name":"artsAndCrafts",
+               "products":[
+                   {
+                       "name": "Kondapalli Toys",
+                       "desc": "Traditional wooden toys handcrafted in Kondapalli village, known for their vibrant colors and intricate designs. These toys are popular among children and collectors alike.",
+                       "cost": 500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716562757/download_c6kiqa.jpg",
+                       "location": {
+                           "lat": 16.8182,
+                           "long": 81.5265
+                       },
+                       "address": "Kondapalli, West Godavari, Andhra Pradesh, 521228",
+                       "sellers": [
+                           {
+                               "name": "Kondapalli Craft Store",
+                               "address": "Main Bazaar, Kondapalli, Andhra Pradesh, 521228",
+                               "contact": "08012345678"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Pochampally Ikat",
+                       "desc": "Handwoven silk and cotton fabrics with traditional Ikat patterns, produced in Pochampally village. Known for their distinctive geometric designs and vibrant colors.",
+                       "cost": 2000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716562759/download_2_lywevx.jpg",
+                       "location": {
+                           "lat": 16.5037,
+                           "long": 80.6432
+                       },
+                       "address": "Pochampally, West Godavari, Andhra Pradesh, 533229",
+                       "sellers": [
+                           {
+                               "name": "Pochampally Weaves",
+                               "address": "Main Road, Pochampally, Andhra Pradesh, 533229",
+                               "contact": "08098765432"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Eluru Kalamkari",
+                       "desc": "Hand-painted fabrics with intricate designs depicting mythological themes, created using the traditional Kalamkari technique. These textiles are highly prized for their beauty and craftsmanship.",
+                       "cost": 3000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716562763/download_1_nrzdn3.jpg",
+                       "location": {
+                           "lat": 16.7104,
+                           "long": 81.1045
+                       },
+                       "address": "Eluru, West Godavari, Andhra Pradesh, 534001",
+                       "sellers": [
+                           {
+                               "name": "Eluru Kalamkari Emporium",
+                               "address": "Gandhi Road, Eluru, Andhra Pradesh, 534001",
+                               "contact": "08056789012"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Denduluru Brassware",
+                       "desc": "Exquisite brassware items crafted in Denduluru village, known for their intricate designs and fine craftsmanship. These items make elegant home decor pieces and unique gifts.",
+                       "cost": 1500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716562766/download_3_iwrqlp.jpg",
+                       "location": {
+                           "lat": 16.8254,
+                           "long": 81.5855
+                       },
+                       "address": "Denduluru, West Godavari, Andhra Pradesh, 534422",
+                       "sellers": [
+                           {
+                               "name": "Denduluru Craft House",
+                               "address": "Market Street, Denduluru, Andhra Pradesh, 534422",
+                               "contact": "08034567890"
+                           }
+                       ]
+                   }
+                   ]
+               },
+               {
+               "name":"fashionAndApparel",
+               "products":[
+                   {
+                       "name": "Kalamkari Sarees",
+                       "desc": "Hand-painted or block-printed sarees known for their intricate designs and vibrant colors.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563010/download_4_gi4rvk.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 16.712896,
+                           "long": 81.10431
+                       },
+                       "address": "Palakol, West Godavari, Andhra Pradesh, 534260",
+                       "sellers": [
+                           {
+                               "name": "Palakol Handlooms",
+                               "address": "Main Road, Palakol, Andhra Pradesh, 534260",
+                               "contact": "08814-222222"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Dhotis",
+                       "desc": "Traditional men's garment, usually worn as a lower garment, available in various colors and fabrics.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563008/download_fzryow.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.712896,
+                           "long": 81.10431
+                       },
+                       "address": "Palakol, West Godavari, Andhra Pradesh, 534260",
+                       "sellers": [
+                           {
+                               "name": "Palakol Handlooms",
+                               "address": "Main Road, Palakol, Andhra Pradesh, 534260",
+                               "contact": "08814-222222"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Pochampally Sarees",
+                       "desc": "Ikat sarees known for their geometric patterns and vibrant colors, handwoven by skilled artisans.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563010/download_1_yvdw4m.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 16.589178,
+                           "long": 80.632836
+                       },
+                       "address": "Pochampally, West Godavari, Andhra Pradesh, 531162",
+                       "sellers": [
+                           {
+                               "name": "Pochampally Handlooms",
+                               "address": "Main Road, Pochampally, Andhra Pradesh, 531162",
+                               "contact": "08818-266666"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Mangalagiri Sarees",
+                       "desc": "Cotton sarees with distinctive zari borders, handwoven in Mangalagiri, known for their durability and elegance.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563011/download_2_lgrac6.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 16.514311,
+                           "long": 80.700524
+                       },
+                       "address": "Mangalagiri, West Godavari, Andhra Pradesh, 521139",
+                       "sellers": [
+                           {
+                               "name": "Mangalagiri Handlooms",
+                               "address": "Main Road, Mangalagiri, Andhra Pradesh, 521139",
+                               "contact": "08812-277777"
+                           }
+                       ]
+                   }
+                   ]
+               },
+               {
+               "name":"healthAndWellness",
+               "products": [
+                   {
+                       "name": "Virgin Coconut Oil",
+                       "desc": "Cold-pressed virgin coconut oil known for its various health benefits including improving heart health, boosting immunity, and promoting weight loss.",
+                       "cost": "Rs. 300",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563256/download_da6pnc.jpg",
+                       "quantity": "500ml bottle",
+                       "location": {
+                           "lat": 16.724881,
+                           "long": 81.104815
+                       },
+                       "address": "Tadepalligudem, West Godavari, Andhra Pradesh, 534101",
+                       "sellers": [
+                           {
+                               "name": "Sri Lakshmi Cold Pressed Oils",
+                               "address": "Main Road, Tadepalligudem, Andhra Pradesh, 534101",
+                               "contact": "08818-222444"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Organic Turmeric Powder",
+                       "desc": "Locally sourced and organically grown turmeric powder known for its anti-inflammatory and antioxidant properties.",
+                       "cost": "Rs. 150",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563257/download_1_dfhivw.jpg",
+                       "quantity": "250g pack",
+                       "location": {
+                           "lat": 16.813478,
+                           "long": 81.52124
+                       },
+                       "address": "Bhimavaram, West Godavari, Andhra Pradesh, 534201",
+                       "sellers": [
+                           {
+                               "name": "Sri Venkateswara Organic Store",
+                               "address": "Gandhi Nagar, Bhimavaram, Andhra Pradesh, 534201",
+                               "contact": "08816-223344"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Herbal Toothpaste",
+                       "desc": "Natural herbal toothpaste enriched with neem and other medicinal herbs for strong teeth and healthy gums.",
+                       "cost": "Rs. 80",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563257/download_2_dnr3xy.jpg",
+                       "quantity": "100g tube",
+                       "location": {
+                           "lat": 16.583282,
+                           "long": 81.518618
+                       },
+                       "address": "Narasapur, West Godavari, Andhra Pradesh, 534275",
+                       "sellers": [
+                           {
+                               "name": "GreenLife Organic Shop",
+                               "address": "Main Road, Narasapur, Andhra Pradesh, 534275",
+                               "contact": "08814-225566"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Ayurvedic Massage Oil",
+                       "desc": "Ayurvedic massage oil formulated with traditional herbs for relieving stress, improving circulation, and nourishing the skin.",
+                       "cost": "Rs. 250",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563257/download_3_fzybwc.jpg",
+                       "quantity": "200ml bottle",
+                       "location": {
+                           "lat": 16.729768,
+                           "long": 81.097839
+                       },
+                       "address": "Tanuku, West Godavari, Andhra Pradesh, 534211",
+                       "sellers": [
+                           {
+                               "name": "AyurVeda Wellness Center",
+                               "address": "Station Road, Tanuku, Andhra Pradesh, 534211",
+                               "contact": "08819-226688"
+                           }
+                       ]
+                   }]
+                 }
+               ,
+               {
+               "name":"homeDecorAndFurnishings",
+               "products":[
+                   {
+                       "name": "Kalamkari Wall Hangings",
+                       "desc": "Traditional hand-painted textiles depicting mythological or folk themes, ideal for adding a touch of cultural elegance to your home.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563513/download_md8maq.jpg",
+                       "location": {
+                           "lat": 16.7104,
+                           "long": 81.0952
+                       },
+                       "sellers": [
+                           {
+                               "name": "Artisan Craft Store",
+                               "address": "Gopalapuram, Bhimavaram, Andhra Pradesh, 534204",
+                               "contact": "088162 44010"
+                           },
+                           {
+                               "name": "Sri Venkateswara Handlooms",
+                               "address": "Main Road, Palakollu, Andhra Pradesh, 534260",
+                               "contact": "088142 22816"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Wooden Carved Furniture",
+                       "desc": "Exquisitely carved wooden furniture pieces, ranging from intricately designed beds to elegant dining sets, showcasing the craftsmanship of local artisans.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563513/download_1_a9czzt.jpg",
+                       "location": {
+                           "lat": 16.6156,
+                           "long": 81.1027
+                       },
+                       "sellers": [
+                           {
+                               "name": "Royal Furniture House",
+                               "address": "Ganeshnagar, Tanuku, Andhra Pradesh, 534211",
+                               "contact": "088192 30055"
+                           },
+                           {
+                               "name": "Elegant Woodcrafts",
+                               "address": "Main Road, Tadepalligudem, Andhra Pradesh, 534101",
+                               "contact": "088182 24040"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Handloom Cotton Curtains",
+                       "desc": "Soft and durable curtains made from locally sourced handloom cotton, available in a variety of colors and designs to complement any interior style.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563517/download_2_qxijiw.jpg",
+                       "location": {
+                           "lat": 16.7313,
+                           "long": 81.0953
+                       },
+                       "sellers": [
+                           {
+                               "name": "Vasavi Handlooms",
+                               "address": "Main Road, Kovvur, Andhra Pradesh, 534350",
+                               "contact": "088132 21019"
+                           },
+                           {
+                               "name": "Sai Laxmi Textiles",
+                               "address": "Rajahmundry Road, Nidadavole, Andhra Pradesh, 534301",
+                               "contact": "088132 22088"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Terracotta Decorative Items",
+                       "desc": "Unique terracotta artifacts including vases, figurines, and wall hangings, handcrafted by local artisans, perfect for adding a rustic charm to your living space.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716563513/download_3_pwxplh.jpg",
+                       "location": {
+                           "lat": 16.7425,
+                           "long": 81.1443
+                       },
+                       "sellers": [
+                           {
+                               "name": "Krishna Pottery Works",
+                               "address": "Main Road, Bhimadole, Andhra Pradesh, 534425",
+                               "contact": "088132 21065"
+                           },
+                           {
+                               "name": "Gowri Clay Crafts",
+                               "address": "Rajahmundry Road, Undrajavaram, Andhra Pradesh, 534461",
+                               "contact": "088192 31718"
+                           }
+                       ]
+                   }
+               ]
+               }
+               ]
+           },
+            {
+               "name":"krishna",
+               "categories":[
+                   {
+                       "name":"food",
+                       "products":[
+                   {
+                       "name": "Avakaya Biryani",
+                       "desc": "A unique biryani flavored with traditional Andhra-style mango pickle.",
+                       "cost": 150,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609477/download_ynuxuh.jpg",
+                       "quantity": "1 plate",
+                       "location": {
+                           "lat": 16.506174,
+                           "long": 80.648015
+                       },
+                       "address": "Vijayawada, Krishna, Andhra Pradesh, 520001",
+                       "sellers": [
+                           {
+                               "name": "Babai Hotel",
+                               "address": "Gandhi Nagar, Vijayawada, Andhra Pradesh, 520003",
+                               "contact": "0866-2571111"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Kandhi Podi Idli",
+                       "desc": "Steamed rice cakes coated with a spicy lentil powder.",
+                       "cost": 40,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609477/download_1_aamspj.jpg",
+                       "quantity": "1 plate",
+                       "location": {
+                           "lat": 16.543551,
+                           "long": 80.661941
+                       },
+                       "address": "Machilipatnam, Krishna, Andhra Pradesh, 521001",
+                       "sellers": [
+                           {
+                               "name": "Madhura Tiffins",
+                               "address": "NTR Circle, Machilipatnam, Andhra Pradesh, 521001",
+                               "contact": "08672-223344"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Gongura Mutton",
+                       "desc": "Tender mutton cooked with tangy and spicy sorrel leaves.",
+                       "cost": 200,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609475/download_2_xqocfd.jpg",
+                       "quantity": "1 plate",
+                       "location": {
+                           "lat": 16.298255,
+                           "long": 80.448398
+                       },
+                       "address": "Gudivada, Krishna, Andhra Pradesh, 521301",
+                       "sellers": [
+                           {
+                               "name": "Swathi Restaurant",
+                               "address": "Raja Rajeswari Peta, Gudivada, Andhra Pradesh, 521301",
+                               "contact": "08674-242526"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Pootharekulu",
+                       "desc": "A traditional Andhra sweet made with thin layers of rice starch, sugar, and ghee.",
+                       "cost": 60,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609478/download_3_srdr4q.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.373271,
+                           "long": 80.428763
+                       },
+                       "address": "Nuzvid, Krishna, Andhra Pradesh, 521201",
+                       "sellers": [
+                           {
+                               "name": "Nuzvid Sweets",
+                               "address": "Market Road, Nuzvid, Andhra Pradesh, 521201",
+                               "contact": "08656-275875"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"artsAndCrafts",
+                       "products":[
+                   {
+                       "name": "Etikoppaka Toys",
+                       "desc": "Eco-friendly wooden toys known for their natural dyes and traditional craftsmanship, originating from the village of Etikoppaka.",
+                       "cost": 600,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609724/download_hhxwpw.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.470754,
+                           "long": 80.602442
+                       },
+                       "address": "Etikoppaka, Krishna District, Andhra Pradesh, 521213",
+                       "sellers": [
+                           {
+                               "name": "Etikoppaka Craft Store",
+                               "address": "Craft Market, Etikoppaka, Andhra Pradesh, 521213",
+                               "contact": "08677-227788"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Machilipatnam Kalamkari Fabrics",
+                       "desc": "Distinct hand-painted or block-printed fabrics known for their intricate designs and use in various garments and home decor.",
+                       "cost": 1200,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609725/download_1_dbgahh.jpg",
+                       "quantity": "1 meter",
+                       "location": {
+                           "lat": 16.507883,
+                           "long": 80.648917
+                       },
+                       "address": "Machilipatnam, Krishna District, Andhra Pradesh, 521002",
+                       "sellers": [
+                           {
+                               "name": "Machilipatnam Kalamkari House",
+                               "address": "Kalamkari Lane, Machilipatnam, Andhra Pradesh, 521002",
+                               "contact": "08672-225566"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Nirmal Paintings",
+                       "desc": "Traditional Indian paintings characterized by rich colors and intricate detailing, often depicting mythological themes.",
+                       "cost": 3500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609725/download_2_pdiec1.jpg",
+                       "quantity": "1 painting",
+                       "location": {
+                           "lat": 16.521784,
+                           "long": 80.635751
+                       },
+                       "address": "Vijayawada, Krishna District, Andhra Pradesh, 520001",
+                       "sellers": [
+                           {
+                               "name": "Vijayawada Art Gallery",
+                               "address": "Art Street, Vijayawada, Andhra Pradesh, 520001",
+                               "contact": "0866-244488"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Brass Idols",
+                       "desc": "Exquisitely crafted brass idols representing various deities, known for their fine detailing and traditional craftsmanship.",
+                       "cost": 4500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609724/download_3_hjc90b.jpg",
+                       "quantity": "1 idol",
+                       "location": {
+                           "lat": 16.50478,
+                           "long": 80.64204
+                       },
+                       "address": "Tenali, Krishna District, Andhra Pradesh, 522201",
+                       "sellers": [
+                           {
+                               "name": "Tenali Brass Works",
+                               "address": "Brass Market, Tenali, Andhra Pradesh, 522201",
+                               "contact": "08644-223344"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"fashionAndApparel",
+                       "products":[
+                   {
+                       "name": "Venkatagiri Silk Saree",
+                       "desc": "Exquisite silk sarees known for their rich texture and intricate zari work.",
+                       "cost": 3000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609921/download_gh5ooy.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.515099,
+                           "long": 80.631957
+                       },
+                       "address": "Vijayawada, Krishna District, Andhra Pradesh, 520002",
+                       "sellers": [
+                           {
+                               "name": "Venkatagiri Silks",
+                               "address": "Besant Road, Vijayawada, Andhra Pradesh, 520002",
+                               "contact": "0866-2456789"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Kuppadam Pattu Saree",
+                       "desc": "Elegant silk sarees with contrasting borders and traditional motifs.",
+                       "cost": 3500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609922/download_2_yiltcf.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.303444,
+                           "long": 80.436502
+                       },
+                       "address": "Gudivada, Krishna District, Andhra Pradesh, 521301",
+                       "sellers": [
+                           {
+                               "name": "Gudivada Silk House",
+                               "address": "Main Road, Gudivada, Andhra Pradesh, 521301",
+                               "contact": "08674-223678"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Uppada Silk Saree",
+                       "desc": "Handwoven silk sarees with beautiful floral and geometric designs.",
+                       "cost": 4000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609922/download_1_lmakbn.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.179,
+                           "long": 80.7485
+                       },
+                       "address": "Avanigadda, Krishna District, Andhra Pradesh, 521121",
+                       "sellers": [
+                           {
+                               "name": "Avanigadda Handlooms",
+                               "address": "Market Street, Avanigadda, Andhra Pradesh, 521121",
+                               "contact": "08671-255678"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Gadwal Silk Saree",
+                       "desc": "Luxurious silk sarees known for their rich colors and intricate designs.",
+                       "cost": 4500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716609922/download_3_iqyenh.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.402301,
+                           "long": 80.745178
+                       },
+                       "address": "Pamarru, Krishna District, Andhra Pradesh, 521157",
+                       "sellers": [
+                           {
+                               "name": "Pamarru Silk House",
+                               "address": "Old Bazaar, Pamarru, Andhra Pradesh, 521157",
+                               "contact": "08675-223123"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"healthAndWellness",
+                       "products":[
+                   {
+                       "name": "Herbal Tea",
+                       "desc": "A soothing blend of natural herbs known for their health benefits, including improved digestion and reduced stress.",
+                       "cost": 150,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716610149/download_iqcu9h.jpg",
+                       "quantity": "250g",
+                       "location": {
+                           "lat": 16.506174,
+                           "long": 80.648015
+                       },
+                       "address": "Vijayawada, Krishna, Andhra Pradesh, 520001",
+                       "sellers": [
+                           {
+                               "name": "Healthy Brew",
+                               "address": "MG Road, Vijayawada, Andhra Pradesh, 520001",
+                               "contact": "0866-2456789"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Organic Honey",
+                       "desc": "Pure, raw honey harvested from organic farms, known for its antibacterial and antioxidant properties.",
+                       "cost": 200,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716610151/download_1_v2bpua.jpg",
+                       "quantity": "500g",
+                       "location": {
+                           "lat": 16.521535,
+                           "long": 80.629723
+                       },
+                       "address": "Machilipatnam, Krishna, Andhra Pradesh, 521001",
+                       "sellers": [
+                           {
+                               "name": "Nature's Gift",
+                               "address": "Beach Road, Machilipatnam, Andhra Pradesh, 521001",
+                               "contact": "08672-220345"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Cold Pressed Coconut Oil",
+                       "desc": "Extracted using traditional methods to retain its nutrients and health benefits, suitable for cooking and skin care.",
+                       "cost": 300,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716610153/download_2_ia1nsy.jpg",
+                       "quantity": "1 liter",
+                       "location": {
+                           "lat": 16.467313,
+                           "long": 80.507278
+                       },
+                       "address": "Gudivada, Krishna, Andhra Pradesh, 521301",
+                       "sellers": [
+                           {
+                               "name": "Pure Essence",
+                               "address": "Market Road, Gudivada, Andhra Pradesh, 521301",
+                               "contact": "08674-230789"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Turmeric Capsules",
+                       "desc": "High-quality turmeric capsules with curcumin, known for their anti-inflammatory and antioxidant benefits.",
+                       "cost": 250,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716610148/download_3_m4zgin.jpg",
+                       "quantity": "60 capsules",
+                       "location": {
+                           "lat": 16.51603,
+                           "long": 80.63982
+                       },
+                       "address": "Vijayawada, Krishna, Andhra Pradesh, 520010",
+                       "sellers": [
+                           {
+                               "name": "Herb Health",
+                               "address": "Besant Road, Vijayawada, Andhra Pradesh, 520010",
+                               "contact": "0866-2554321"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"homeDecorAndFurnishings",
+                       "products":[
+                   {
+                       "name": "Handcrafted Wooden Sofa",
+                       "desc": "A beautifully handcrafted wooden sofa set, perfect for adding a traditional touch to your living room.",
+                       "cost": 25000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716610356/download_hrlsko.jpg",
+                       "quantity": "1 set",
+                       "location": {
+                           "lat": 16.510241,
+                           "long": 80.648015
+                       },
+                       "address": "Vijayawada, Krishna District, Andhra Pradesh, 520001",
+                       "sellers": [
+                           {
+                               "name": "Krishna Furniture Mart",
+                               "address": "M.G. Road, Vijayawada, Andhra Pradesh, 520001",
+                               "contact": "0866-2424123"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Traditional Kalamkari Wall Art",
+                       "desc": "Exquisite hand-painted Kalamkari wall art depicting mythological themes and intricate designs.",
+                       "cost": 5000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716610356/download_1_wja9f8.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.436192,
+                           "long": 81.677044
+                       },
+                       "address": "Machilipatnam, Krishna District, Andhra Pradesh, 521001",
+                       "sellers": [
+                           {
+                               "name": "Artisan's Gallery",
+                               "address": "Market Road, Machilipatnam, Andhra Pradesh, 521001",
+                               "contact": "08672-224567"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Brass Decorative Lamp",
+                       "desc": "Elegant brass lamp designed with intricate carvings, perfect for home decor and lighting.",
+                       "cost": 3000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716610363/download_2_aqvuvs.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.71306,
+                           "long": 81.10012
+                       },
+                       "address": "Gudivada, Krishna District, Andhra Pradesh, 521301",
+                       "sellers": [
+                           {
+                               "name": "Heritage Handicrafts",
+                               "address": "Station Road, Gudivada, Andhra Pradesh, 521301",
+                               "contact": "08674-255890"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Silk Cushion Covers",
+                       "desc": "Luxurious silk cushion covers with traditional embroidery, ideal for enhancing the beauty of your living space.",
+                       "cost": 1500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716610358/download_3_fwizrg.jpg",
+                       "quantity": "4 pieces",
+                       "location": {
+                           "lat": 16.187473,
+                           "long": 81.136319
+                       },
+                       "address": "Avanigadda, Krishna District, Andhra Pradesh, 521121",
+                       "sellers": [
+                           {
+                               "name": "Avanigadda Home Decor",
+                               "address": "Main Bazaar, Avanigadda, Andhra Pradesh, 521121",
+                               "contact": "08678-276789"
+                           }
+                       ]
+                   }
+               ]
+                   }
+               ]
+            },
+            {
+               "name":"guntur",
+               "categories":[
+                   {
+                       "name":"food",
+                       "products":[
+                   {
+                       "name": "Guntur Chicken Curry",
+                       "desc": "A spicy and flavorful chicken curry made with traditional Guntur chili spices.",
+                       "cost": 150,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611718/download_iqmkmo.jpg",
+                       "quantity": "1 plate",
+                       "location": {
+                           "lat": 16.306652,
+                           "long": 80.43654
+                       },
+                       "address": "Guntur, Andhra Pradesh, 522002",
+                       "sellers": [
+                           {
+                               "name": "Swagruha Foods",
+                               "address": "Arundelpet, Guntur, Andhra Pradesh, 522002",
+                               "contact": "0863-2234567"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Ravva Dosa",
+                       "desc": "A crispy dosa made from semolina, known for its unique texture and taste.",
+                       "cost": 60,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611717/download_1_xyh7jw.jpg",
+                       "quantity": "1 plate",
+                       "location": {
+                           "lat": 16.31098,
+                           "long": 80.43654
+                       },
+                       "address": "Brodi Pettah, Guntur, Andhra Pradesh, 522002",
+                       "sellers": [
+                           {
+                               "name": "Sridevi Tiffins",
+                               "address": "Brodi Pettah, Guntur, Andhra Pradesh, 522002",
+                               "contact": "0863-2256789"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Ulava Charu",
+                       "desc": "A traditional horse gram soup, rich in flavor and nutrients, typically served with rice.",
+                       "cost": 100,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611716/download_2_dl6rdd.jpg",
+                       "quantity": "1 bowl",
+                       "location": {
+                           "lat": 16.30908,
+                           "long": 80.4366
+                       },
+                       "address": "Railpet, Guntur, Andhra Pradesh, 522001",
+                       "sellers": [
+                           {
+                               "name": "Hotel Viceroy",
+                               "address": "Railpet, Guntur, Andhra Pradesh, 522001",
+                               "contact": "0863-2298765"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Gongura Pachadi",
+                       "desc": "A tangy and spicy chutney made from gongura leaves, a specialty of Andhra cuisine.",
+                       "cost": 50,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611717/download_3_c4zp7g.jpg",
+                       "quantity": "1 bowl",
+                       "location": {
+                           "lat": 16.306652,
+                           "long": 80.43654
+                       },
+                       "address": "Lalapet, Guntur, Andhra Pradesh, 522001",
+                       "sellers": [
+                           {
+                               "name": "Ruchi Pickles",
+                               "address": "Lalapet, Guntur, Andhra Pradesh, 522001",
+                               "contact": "0863-2212345"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"artsAndCrafts",
+                       "products":[
+                   {
+                       "name": "Kalamkari Paintings",
+                       "desc": "Traditional hand-painted cotton or silk fabrics with intricate designs depicting mythological stories or nature motifs.",
+                       "cost": 1000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611951/download_motuvi.jpg",
+                       "quantity": "1 painting",
+                       "location": {
+                           "lat": 16.306652,
+                           "long": 80.438964
+                       },
+                       "address": "Srikalahasti, Guntur, Andhra Pradesh, 522415",
+                       "sellers": [
+                           {
+                               "name": "Srikalahasti Artisans",
+                               "address": "Artisan Street, Srikalahasti, Andhra Pradesh, 522415",
+                               "contact": "08674-222333"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Dharmavaram Silk Sarees",
+                       "desc": "Luxurious silk sarees from Dharmavaram, known for their heavy gold zari work and vibrant colors.",
+                       "cost": 7000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611949/download_1_npa1no.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 15.413064,
+                           "long": 77.694717
+                       },
+                       "address": "Dharmavaram, Guntur, Andhra Pradesh, 515671",
+                       "sellers": [
+                           {
+                               "name": "Dharmavaram Silk Emporium",
+                               "address": "Silk Road, Dharmavaram, Andhra Pradesh, 515671",
+                               "contact": "08559-223344"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Mangalagiri Handloom Fabrics",
+                       "desc": "Handcrafted cotton fabrics from Mangalagiri, known for their distinctive Nizam borders and durability.",
+                       "cost": 800,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611955/download_2_wdjrvq.jpg",
+                       "quantity": "1 meter",
+                       "location": {
+                           "lat": 16.43554,
+                           "long": 80.561324
+                       },
+                       "address": "Mangalagiri, Guntur, Andhra Pradesh, 522003",
+                       "sellers": [
+                           {
+                               "name": "Mangalagiri Handloom Weavers",
+                               "address": "Handloom Street, Mangalagiri, Andhra Pradesh, 522003",
+                               "contact": "0863-2256791"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Macherla Stone Sculptures",
+                       "desc": "Exquisite sculptures carved from soft stone in Macherla, portraying religious deities and mythical figures.",
+                       "cost": 2500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611952/download_3_nolsdy.jpg",
+                       "quantity": "1 sculpture",
+                       "location": {
+                           "lat": 16.480329,
+                           "long": 79.432781
+                       },
+                       "address": "Macherla, Guntur, Andhra Pradesh, 522426",
+                       "sellers": [
+                           {
+                               "name": "Macherla Artisans Collective",
+                               "address": "Artisan Colony, Macherla, Andhra Pradesh, 522426",
+                               "contact": "08643-223355"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"fashionAndApparel",
+                       "products":[
+                   {
+                       "name": "Kanchipuram Silk Saree",
+                       "desc": "A traditional silk saree known for its rich colors and intricate designs, originating from Kanchipuram, Tamil Nadu.",
+                       "cost": 5000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611955/download_2_wdjrvq.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 16.306652,
+                           "long": 80.43654
+                       },
+                       "address": "Guntur, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Sri Venkateswara Silks",
+                               "address": "Main Road, Guntur, Andhra Pradesh",
+                               "contact": "08812-123456"
+                           },
+                           {
+                               "name": "Sri Sai Silks",
+                               "address": "MG Road, Guntur, Andhra Pradesh",
+                               "contact": "08812-654321"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Banarasi Silk Saree",
+                       "desc": "A luxurious silk saree characterized by intricate weaving patterns, originating from Varanasi, Uttar Pradesh.",
+                       "cost": 8000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716611949/download_1_npa1no.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 16.314209,
+                           "long": 80.435562
+                       },
+                       "address": "Guntur, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Shivani Handlooms",
+                               "address": "Lakshmipuram, Guntur, Andhra Pradesh",
+                               "contact": "08812-987654"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Designer Lehenga",
+                       "desc": "A trendy and stylish lehenga ensemble, perfect for weddings and special occasions.",
+                       "cost": 12000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612136/download_jdkniq.jpg",
+                       "quantity": "1 set",
+                       "location": {
+                           "lat": 16.301112,
+                           "long": 80.446165
+                       },
+                       "address": "Guntur, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Pooja Boutique",
+                               "address": "Arundelpet, Guntur, Andhra Pradesh",
+                               "contact": "08812-135790"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Men's Formal Suit",
+                       "desc": "A classic and elegant formal suit for men, suitable for business meetings and formal events.",
+                       "cost": 15000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612137/download_3_g3qbew.jpg",
+                       "quantity": "1 suit",
+                       "location": {
+                           "lat": 16.307935,
+                           "long": 80.437476
+                       },
+                       "address": "Guntur, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Rajesh Menswear",
+                               "address": "Broadyway Road, Guntur, Andhra Pradesh",
+                               "contact": "08812-246810"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"healthAndWellness",
+                       "products":[
+                   {
+                       "name": "Herbal Face Pack",
+                       "desc": "A blend of natural herbs and botanical extracts to nourish and rejuvenate the skin, leaving it radiant and refreshed.",
+                       "cost": 300,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612317/download_xfen4b.jpg",
+                       "quantity": "100 grams",
+                       "location": {
+                           "lat": 16.306,
+                           "long": 80.436
+                       },
+                       "address": "GreenGlow Wellness Center, Lakshmipuram, Guntur, Andhra Pradesh, 522007",
+                       "sellers": [
+                           {
+                               "name": "GreenGlow Wellness Center",
+                               "address": "Lakshmipuram, Guntur, Andhra Pradesh, 522007",
+                               "contact": "0884-3456789"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Protein Supplements",
+                       "desc": "High-quality protein supplements for muscle recovery and growth, suitable for athletes and fitness enthusiasts.",
+                       "cost": 1200,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612322/download_1_bpua36.jpg",
+                       "quantity": "1 kg",
+                       "location": {
+                           "lat": 16.309,
+                           "long": 80.437
+                       },
+                       "address": "FitZone Nutrition Store, Lakshmipuram, Guntur, Andhra Pradesh, 522007",
+                       "sellers": [
+                           {
+                               "name": "FitZone Nutrition Store",
+                               "address": "Lakshmipuram, Guntur, Andhra Pradesh, 522007",
+                               "contact": "0884-9876543"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Herbal Hair Oil",
+                       "desc": "A blend of traditional Ayurvedic herbs and oils to nourish the scalp, strengthen hair roots, and prevent hair fall.",
+                       "cost": 250,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612319/download_2_wu4dzz.jpg",
+                       "quantity": "200 ml",
+                       "location": {
+                           "lat": 16.299,
+                           "long": 80.457
+                       },
+                       "address": "Nature's Essence Herbal Store, Brodipet, Guntur, Andhra Pradesh, 522002",
+                       "sellers": [
+                           {
+                               "name": "Nature's Essence Herbal Store",
+                               "address": "Brodipet, Guntur, Andhra Pradesh, 522002",
+                               "contact": "0884-7654321"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Essential Oil Diffuser",
+                       "desc": "Aromatherapy essential oil diffuser for creating a calming and relaxing atmosphere at home or in the office.",
+                       "cost": 600,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612320/download_3_qduafe.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 16.299,
+                           "long": 80.457
+                       },
+                       "address": "Serenity Wellness Boutique, Brodipet, Guntur, Andhra Pradesh, 522002",
+                       "sellers": [
+                           {
+                               "name": "Serenity Wellness Boutique",
+                               "address": "Brodipet, Guntur, Andhra Pradesh, 522002",
+                               "contact": "0884-2345678"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"homeDecorAndFurnishings",
+                       "products":[
+                   {
+                       "name": "Handloom Cotton Bedsheets",
+                       "desc": "Traditional handloom cotton bedsheets with vibrant colors and intricate designs.",
+                       "cost": 800,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612498/download_4_i5vahs.jpg",
+                       "location": {
+                           "lat": 16.3067,
+                           "long": 80.4365
+                       },
+                       "address": "Guntur, Andhra Pradesh, 522001",
+                       "sellers": [
+                           {
+                               "name": "Sri Venkateswara Handlooms",
+                               "address": "Arundelpet, Guntur, Andhra Pradesh, 522002",
+                               "contact": "08000000000"
+                           },
+                           {
+                               "name": "Guntur Handloom Emporium",
+                               "address": "Station Road, Guntur, Andhra Pradesh, 522003",
+                               "contact": "08000000001"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Teak Wood Dining Table Set",
+                       "desc": "Elegant teak wood dining table set with 6 chairs, perfect for family gatherings.",
+                       "cost": 25000,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612498/download_ysgabo.jpg",
+                       "location": {
+                           "lat": 16.3076,
+                           "long": 80.4376
+                       },
+                       "address": "Guntur, Andhra Pradesh, 522001",
+                       "sellers": [
+                           {
+                               "name": "WoodCraft Furniture",
+                               "address": "Brooke Bond Colony, Guntur, Andhra Pradesh, 522006",
+                               "contact": "08000000002"
+                           },
+                           {
+                               "name": "Royal Teak Furnishings",
+                               "address": "Lakshmipuram, Guntur, Andhra Pradesh, 522007",
+                               "contact": "08000000003"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Decorative Wall Clock",
+                       "desc": "Vintage-style decorative wall clock with Roman numerals, adding a touch of elegance to any room.",
+                       "cost": 1500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612504/download_1_fnnef4.jpg",
+                       "location": {
+                           "lat": 16.3135,
+                           "long": 80.4356
+                       },
+                       "address": "Guntur, Andhra Pradesh, 522001",
+                       "sellers": [
+                           {
+                               "name": "Timeless Decor",
+                               "address": "Sankar Vilas, Guntur, Andhra Pradesh, 522004",
+                               "contact": "08000000004"
+                           },
+                           {
+                               "name": "Golden Era Furnishings",
+                               "address": "Srinivasarao Thota, Guntur, Andhra Pradesh, 522005",
+                               "contact": "08000000005"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Scented Candles Set",
+                       "desc": "A set of scented candles in various fragrances, creating a cozy atmosphere at home.",
+                       "cost": 500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612500/download_2_eqvq1f.jpg",
+                       "location": {
+                           "lat": 16.2984,
+                           "long": 80.4525
+                       },
+                       "address": "Guntur, Andhra Pradesh, 522001",
+                       "sellers": [
+                           {
+                               "name": "Aroma Delights",
+                               "address": "Brindavan Gardens, Guntur, Andhra Pradesh, 522008",
+                               "contact": "08000000006"
+                           },
+                           {
+                               "name": "Blissful Scents",
+                               "address": "Chuttugunta, Guntur, Andhra Pradesh, 522009",
+                               "contact": "08000000007"
+                           }
+                       ]
+                   }
+               ]
+                   }
+               ]
+            },
+            {
+               "name":"prakasam",
+               "categories":[
+                   {
+                       "name":"food",
+                       "products":[
+                   {
+                       "name": "Ulava Charu",
+                       "desc": "A traditional soup made from horse gram, typically enjoyed with rice or as a warm beverage. It is known for its unique taste and health benefits.",
+                       "cost": 60,
+                       "quantity": "bowl",
+                       "location": {
+                           "lat": 15.500652,
+                           "long": 80.049923
+                       },
+                       "address": "Various local eateries in Ongole, Prakasam District, Andhra Pradesh",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716609354/vulavacharu_ekgylk.jpg",
+                       "sellers": [
+                           {
+                               "name": "Sri Kanaka Durga Hotel",
+                               "address": "Trunk Road, Ongole, Prakasam District, Andhra Pradesh, 523001",
+                               "contact": "08592234567"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Garelu",
+                       "desc": "A savory fried snack made from black gram batter, often enjoyed with chutney or sambar. It is a popular breakfast item in Andhra Pradesh.",
+                       "cost": 20,
+                       "quantity": "piece",
+                       "location": {
+                           "lat": 15.498876,
+                           "long": 80.04978
+                       },
+                       "address": "Street vendors and tiffin centers in Ongole, Prakasam District, Andhra Pradesh",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716609421/garelu_ttpwon.jpg",
+                       "sellers": [
+                           {
+                               "name": "Ravi Tiffin Center",
+                               "address": "Gandhi Road, Ongole, Prakasam District, Andhra Pradesh, 523002",
+                               "contact": "08592235678"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Bongu Chicken",
+                       "desc": "A unique and traditional method of cooking chicken inside bamboo, imparting a distinct flavor. It is a specialty in Andhra Pradesh.",
+                       "cost": 200,
+                       "quantity": "plate",
+                       "location": {
+                           "lat": 15.501234,
+                           "long": 80.050567
+                       },
+                       "address": "Specialty restaurants in Ongole, Prakasam District, Andhra Pradesh",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716609478/bongulo_vyzdpi.jpg",
+                       "sellers": [
+                           {
+                               "name": "Andhra Spice Restaurant",
+                               "address": "Bypass Road, Ongole, Prakasam District, Andhra Pradesh, 523003",
+                               "contact": "08592236789"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"artsAndCrafts",
+                       "products":[
+                   {
+                       "name": "Handloom Sarees",
+                       "desc": "Chirala is renowned for its handloom sarees, which are known for their intricate designs and fine quality. These sarees are traditionally woven using silk and cotton threads.",
+                       "cost": 1500,
+                       "quantity": "saree",
+                       "location": {
+                           "lat": 15.8248,
+                           "long": 80.3521
+                       },
+                       "address": "Handloom Weavers Cooperative Society, Chirala, Prakasam District, Andhra Pradesh, 523155",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716609801/Handloom_Sarees_apzmf9.jpg",
+                       "sellers": [
+                           {
+                               "name": "Chirala Handloom Weavers Society",
+                               "address": "Main Road, Chirala, Prakasam District, Andhra Pradesh, 523155",
+                               "contact": "08594234567"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Stone Carvings",
+                       "desc": "Durgi is famous for its stone carvings, a craft that dates back to the 15th century. The artisans create intricate sculptures and idols using the locally available soft limestone.",
+                       "cost": 5000,
+                       "quantity": "piece",
+                       "location": {
+                           "lat": 16.4537,
+                           "long": 79.5941
+                       },
+                       "address": "Durgi Village, Prakasam District, Andhra Pradesh, 523247",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716609978/stone_carvings_ss4oxt.jpg",
+                       "sellers": [
+                           {
+                               "name": "Durgi Stone Carving Cooperative Society",
+                               "address": "Durgi, Prakasam District, Andhra Pradesh, 523247",
+                               "contact": "08593245678"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Wooden Toys",
+                       "desc": "Addanki is known for its traditional wooden toys, which are handcrafted using locally sourced wood. These toys are painted with natural dyes and depict rural life, animals, and mythological characters.",
+                       "cost": 300,
+                       "quantity": "toy",
+                       "location": {
+                           "lat": 15.811,
+                           "long": 79.9739
+                       },
+                       "address": "Various craft stores in Addanki, Prakasam District, Andhra Pradesh",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716610087/Kondapalli_Toys_nbjuzw.jpg",
+                       "sellers": [
+                           {
+                               "name": "Addanki Crafts Bazaar",
+                               "address": "Market Road, Addanki, Prakasam District, Andhra Pradesh, 523201",
+                               "contact": "08591234567"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"fashionAndApparel",
+                       "products":[
+                   {
+                       "name": "Kalamkari Fabric",
+                       "desc": "Kalamkari is a type of hand-painted or block-printed cotton textile, produced in parts of Andhra Pradesh. This fabric is known for its intricate patterns and vibrant colors, often depicting mythological scenes and floral motifs.",
+                       "cost": 800,
+                       "quantity": "meter",
+                       "location": {
+                           "lat": 15.6794,
+                           "long": 79.4205
+                       },
+                       "address": "Kalamkari Artisans Cooperative Society, Pedana, Prakasam District, Andhra Pradesh, 523212",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716610126/Kandukur_Silk_Sarees_j8cohr.jpg",
+                       "sellers": [
+                           {
+                               "name": "Pedana Kalamkari Cooperative",
+                               "address": "Main Road, Pedana, Prakasam District, Andhra Pradesh, 523212",
+                               "contact": "08592234567"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Mangalagiri Cotton",
+                       "desc": "Mangalagiri cotton is known for its durability and fine texture. The fabric is typically used to make sarees, salwar kameez, and other traditional Indian garments. It is woven using a unique technique that ensures the material is soft and comfortable.",
+                       "cost": 600,
+                       "quantity": "meter",
+                       "location": {
+                           "lat": 16.4537,
+                           "long": 80.5246
+                       },
+                       "address": "Handloom Weavers Cooperative Society, Mangalagiri, Prakasam District, Andhra Pradesh, 523212",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716610227/mangalagiri_qc8jot.jpg",
+                       "sellers": [
+                           {
+                               "name": "Mangalagiri Handloom Cooperative",
+                               "address": "Main Road, Mangalagiri, Prakasam District, Andhra Pradesh, 523212",
+                               "contact": "08593234567"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Venkatagiri Sarees",
+                       "desc": "Venkatagiri sarees are known for their fine weaving and intricate zari work. Made from high-quality cotton and silk, these sarees are light and comfortable, making them perfect for daily wear and special occasions.",
+                       "cost": 3000,
+                       "quantity": "saree",
+                       "location": {
+                           "lat": 14.4537,
+                           "long": 79.8246
+                       },
+                       "address": "Venkatagiri Weavers Cooperative Society, Venkatagiri, Prakasam District, Andhra Pradesh, 523213",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716610289/venkatagiri_kiwld9.jpg",
+                       "sellers": [
+                           {
+                               "name": "Venkatagiri Weavers Cooperative",
+                               "address": "Weavers Colony, Venkatagiri, Prakasam District, Andhra Pradesh, 523213",
+                               "contact": "08594234567"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"healthAndWellness",
+                       "products":[
+                   {
+                       "name": "Sri Venkateswara Ayurveda Ashram",
+                       "desc": "A renowned center for traditional Ayurvedic treatments and therapies. It offers a range of services including Panchakarma, herbal treatments, and wellness programs aimed at holistic healing.",
+                       "cost": 1500,
+                       "quantity": "session",
+                       "location": {
+                           "lat": 15.5091,
+                           "long": 80.0443
+                       },
+                       "address": "Sri Venkateswara Ayurveda Ashram, Ongole, Prakasam District, Andhra Pradesh, 523001",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716610350/Sri_Venkateswara_Ayurveda_Ashram_uvxyoc.jpg",
+                       "sellers": [
+                           {
+                               "name": "Sri Venkateswara Ayurveda Ashram",
+                               "address": "Ongole, Prakasam District, Andhra Pradesh, 523001",
+                               "contact": "08592212345"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Prasanthi Naturopathy Center",
+                       "desc": "This center focuses on naturopathy treatments including diet therapy, yoga, and hydrotherapy. It aims to promote natural healing and overall wellness.",
+                       "cost": 2000,
+                       "quantity": "session",
+                       "location": {
+                           "lat": 15.5065,
+                           "long": 80.0421
+                       },
+                       "address": "Prasanthi Naturopathy Center, Ongole, Prakasam District, Andhra Pradesh, 523002",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716610401/Prasanthi_Naturopathy_Center_ahdk5z.jpg",
+                       "sellers": [
+                           {
+                               "name": "Prasanthi Naturopathy Center",
+                               "address": "Ongole, Prakasam District, Andhra Pradesh, 523002",
+                               "contact": "08592267890"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Satya Yoga and Wellness Center",
+                       "desc": "Offering various yoga classes, meditation sessions, and wellness programs, this center aims to promote mental and physical health through holistic practices.",
+                       "cost": 1000,
+                       "quantity": "session",
+                       "location": {
+                           "lat": 15.5058,
+                           "long": 80.0433
+                       },
+                       "address": "Satya Yoga and Wellness Center, Ongole, Prakasam District, Andhra Pradesh, 523003",
+                       "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716610456/Satya_Yoga_Wellness_Center_kw4vpc.jpg",
+                       "sellers": [
+                           {
+                               "name": "Satya Yoga and Wellness Center",
+                               "address": "Ongole, Prakasam District, Andhra Pradesh, 523003",
+                               "contact": "08592256789"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"homeDecorAndFurnishings",
+                       "products":[
+                   {
+                       "name": "Handwoven Cotton Rug",
+                       "desc": "A beautifully crafted cotton rug with intricate designs, perfect for adding warmth and texture to your home.",
+                       "cost": 1500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612962/download_oopwhn.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 15.55,
+                           "long": 80.05
+                       },
+                       "address": "Prakasham District, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Prakasham Handloom Emporium",
+                               "address": "Main Bazaar, Ongole, Prakasham District, Andhra Pradesh",
+                               "contact": "08012345678"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Vintage Brass Wall Sconces",
+                       "desc": "Elegant brass wall sconces with intricate detailing, adding a touch of vintage charm to any room.",
+                       "cost": 2500,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612962/download_3_ovonmt.jpg",
+                       "quantity": "2 pieces",
+                       "location": {
+                           "lat": 15.5,
+                           "long": 80.05
+                       },
+                       "address": "Prakasham District, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Antique House",
+                               "address": "Station Road, Ongole, Prakasham District, Andhra Pradesh",
+                               "contact": "08098765432"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Embroidered Throw Pillow Covers",
+                       "desc": "Colorful throw pillow covers with intricate embroidery, adding a pop of color and texture to your living space.",
+                       "cost": 800,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612968/download_2_mcxd17.jpg",
+                       "quantity": "Set of 3",
+                       "location": {
+                           "lat": 15.75,
+                           "long": 80.05
+                       },
+                       "address": "Prakasham District, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Creative Home Accents",
+                               "address": "MG Road, Ongole, Prakasham District, Andhra Pradesh",
+                               "contact": "08013579246"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Wooden Wall Shelves",
+                       "desc": "Stylish wooden wall shelves with multiple tiers, perfect for displaying books, plants, or decorative items.",
+                       "cost": 1800,
+                       "url": "https://res.cloudinary.com/dmoasmpg4/image/upload/v1716612964/download_1_xul5ye.jpg",
+                       "quantity": "1 set",
+                       "location": {
+                           "lat": 15.85,
+                           "long": 80.05
+                       },
+                       "address": "Prakasham District, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Woodcraft Creations",
+                               "address": "Market Street, Ongole, Prakasham District, Andhra Pradesh",
+                               "contact": "08024681357"
+                           }
+                       ]
+                   }
+               ]
+                   }
+               ]
+            },
+            {
+               "name":"srikakulam",
+               "categories":[
+                   {
+                       "name":"food",
+                       "products":[
+                   {
+                       "name": "Uddanam Coconut",
+                       "desc": "The coconut is famous for its versatility, nutritional richness, cultural significance, economic importance, and sustainability",
+                       "cost": 22,
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689074/coconut_irfnwe.jpg",
+                       "quantity": "1",
+                       "location": {
+                           "lat": 18.6454901,
+                           "long": 84.3923127
+                       },
+                       "address": "Andhra Pradesh, 532218",
+                       "sellers": []
+                   },
+                   {
+                       "name": "Cashew",
+                       "desc": "These are widely renowned for their properties like longer shelf life, high nutritional value and impeccable taste. Palasa cashew market is the largest cashew kernel centre in Andhra Pradesh state.",
+                       "cost": 460,
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689106/cashew_xneidn.jpg",
+                       "quantity": "1kg",
+                       "contactdetails": "",
+                       "location": {
+                           "lat": 18.7567,
+                           "long": 84.4223
+                       },
+                       "address": "Palasa, Srikakulam, Andhra Pradesh, 532221",
+                       "sellers": [
+                           {
+                               "name": "SUPER CASHEW/SUPERFOODSINDIAEXPO/SUPER KAZOO",
+                               "address": "Cashew statue 4 Road junction 100mtr from Ellamma Temple, Palasa, Andhra Pradesh, 532221"
+                           },
+                           {
+                               "name": "Rohith Cashew Industries",
+                               "address": "Industrial Estate Palasa, Palasa at Kasibugga, Andhra Pradesh, 532222",
+                               "contact": "08838802637"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Palakova",
+                       "desc": "Mansada Palakova is a creamy and rich sweet delicacy from Andhra Pradesh, India, made with milk, sugar, and ghee.",
+                       "cost": 450,
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716544764/palakova_sjkpim.webp",
+                       "quantity": "1kg",
+                       "location": {
+                           "lat": 18.89263,
+                           "long": 84.45518
+                       },
+                       "address": "Mandasa, Srikakulam, Andhra Pradesh, 532242",
+                       "sellers": [
+                           {
+                               "name": "Sri Venkasteswara Sweet Shop",
+                               "address": "No. 3 10 90, Main Road, Mandasa, Srikakulam - 532242 (Near Mandasa Rajaveeri Bustop)",
+                               "contact": "07947146701"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Utankulu",
+                       "desc": "Savory rice and lentil pancakes from Sompeta, Andhra Pradesh, enjoyed with chutney or sambar.",
+                       "cost": 350,
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689129/utankulu_cn1edt.jpg",
+                       "quantity": "5 pieces",
+                       "location": {
+                           "lat": 18.9454,
+                           "long": 84.584
+                       },
+                       "address": "Sompeta, Srikakulam, Andhra Pradesh, 532284",
+                       "sellers": [
+                           {
+                               "name": "Rajasthan Sweets Stall",
+                               "address": "Mandapam, Rapakaputtuga, Baruva Road, Sompeta, Srikakulam - 532284",
+                               "contact": "07947120518"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Chuppulu",
+                       "desc": "Crunchy, spiced lentil fritters from Saravakota, Andhra Pradesh, perfect for snacking or as a side dish.",
+                       "cost": 7,
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689150/chuppulu_aenxle.jpg",
+                       "quantity": "1 piece",
+                       "contactdetails": "",
+                       "location": {
+                           "lat": 18.59366,
+                           "long": 84.04994
+                       },
+                       "address": "Saravakota, Srikakulam, Andhra Pradesh, 532426",
+                       "sellers": [
+                           {
+                               "name": "Manu",
+                               "address": "Mainroad, Saravakota, Srikakulam - 532426"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"artsAndCrafts",
+                       "products":[
+                   {
+                       "name": "Khadi Ponduru",
+                       "desc": "Ponduru Khadi is a premium handwoven cotton fabric from Ponduru, Andhra Pradesh, celebrated for its fine texture and superior craftsmanship.",
+                       "cost": 1925,
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716546787/cottonfabric_ubdmos.jpg",
+                       "quantity": "piece",
+                       "location": {
+                           "lat": 18.33758,
+                           "long": 83.7584
+                       },
+                       "address": "Ponduru, Srikakulam - 532168",
+                       "sellers": [
+                           {
+                               "name": "Ponduru Khadi Vastralayam",
+                               "address": "Vandrangi, Ponduru Main Road, Ponduru, Srikakulam - 532168 (Opposite RTC Bus Stand)",
+                               "contact": "07942678985"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Bronze Works",
+                       "desc": "Budithi Brass Works from Srikakulam are traditional handcrafted brass artifacts known for their intricate designs and artisanal excellence.",
+                       "cost": 650,
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689179/bronzeworks_g0lvpx.jpg",
+                       "quantity": "piece",
+                       "location": {
+                           "lat": 18.514793,
+                           "long": 84.044724
+                       },
+                       "address": "Budithi, Srikakulam - 532427",
+                       "sellers": []
+                   },
+                   {
+                       "name": "Natural Fibre Based Handicrafts",
+                       "desc": "Natural fibre-based handicrafts are eco-friendly products intricately crafted using locally sourced natural materials.",
+                       "cost": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689220/fibrebasedhandicreafts_h80s6g.jpg",
+                       "url": "",
+                       "quantity": "",
+                       "location": {
+                           "lat": 18.23225,
+                           "long": 83.75118
+                       },
+                       "address": "Bejjipuram, Srikakulam - 532403",
+                       "sellers": []
+                   }
+               ]
+                   },
+                   {
+                       "name":"fashionAndApparel",
+                       "products":[
+                   {
+                       "name": "Traditional Pochampally Silk Sarees",
+                       "desc": "Exquisite silk sarees handwoven with traditional Pochampally designs, showcasing the rich cultural heritage of Srikakulam.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716546389/uppadasilksaree_mevow3.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 18.296384,
+                           "long": 83.893414
+                       },
+                       "address": "Srikakulam, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Srikakulam Silk Emporium",
+                               "address": "MG Road, Srikakulam, Andhra Pradesh",
+                               "contact": "01234-567890"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Handloom Cotton Dresses",
+                       "desc": "Elegant cotton dresses handcrafted by local artisans, featuring intricate embroidery and vibrant colors, perfect for summer wear.",
+                       "cost": "1200",
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689285/handloomcottondresses_wm4mai.jpg",
+                       "quantity": "1 dress",
+                       "location": {
+                           "lat": 18.296384,
+                           "long": 83.893414
+                       },
+                       "address": "Srikakulam, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Srikakulam Handloom Creations",
+                               "address": "Station Road, Srikakulam, Andhra Pradesh",
+                               "contact": "01234-567890"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Cotton Printed Dupattas",
+                       "desc": "Colorful cotton dupattas featuring traditional Srikakulam block prints, adding a touch of elegance to any outfit.",
+                       "cost": "500",
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689311/cotondupattas_b5migp.jpg",
+                       "quantity": "1 dupatta",
+                       "location": {
+                           "lat": 18.296384,
+                           "long": 83.893414
+                       },
+                       "address": "Srikakulam, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Srikakulam Cotton Crafts",
+                               "address": "Market Street, Srikakulam, Andhra Pradesh",
+                               "contact": "01234-567890"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"healthAndWellness",
+                       "products":[
+                   {
+                       "name": "Ayurvedic Herbal Supplements",
+                       "desc": "Authentic Ayurvedic herbal supplements sourced from the pristine forests of Srikakulam, promoting overall health and well-being.",
+                       "cost": "800",
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689339/herbalhairoil_rhhjs1.jpg",
+                       "quantity": "60 capsules",
+                       "location": {
+                           "lat": 18.296384,
+                           "long": 83.893414
+                       },
+                       "address": "Srikakulam, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Srikakulam Ayurveda Pharmacy",
+                               "address": "Main Road, Srikakulam, Andhra Pradesh",
+                               "contact": "01234-567890"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Organic Honey",
+                       "desc": "Pure organic honey harvested from the lush forests of Srikakulam, rich in antioxidants and beneficial enzymes.",
+                       "cost": "300",
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689374/organichoney_gnratk.jpg",
+                       "quantity": "500g",
+                       "location": {
+                           "lat": 18.296384,
+                           "long": 83.893414
+                       },
+                       "address": "Srikakulam, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Srikakulam Organic Farms",
+                               "address": "Farm Road, Srikakulam, Andhra Pradesh",
+                               "contact": "01234-567890"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Herbal Hair Oil",
+                       "desc": "Natural herbal hair oil infused with potent herbs from Srikakulam, nourishing the scalp and promoting healthy hair growth.",
+                       "cost": "200",
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689399/herbalhairoil_twl9sj.jpg",
+                       "quantity": "200ml",
+                       "location": {
+                           "lat": 18.296384,
+                           "long": 83.893414
+                       },
+                       "address": "Srikakulam, Andhra Pradesh",
+                       "sellers": [
+                           {
+                               "name": "Srikakulam Herbal Remedies",
+                               "address": "Green Street, Srikakulam, Andhra Pradesh",
+                               "contact": "01234-567890"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"homeDecorAndFurnishings",
+                       "products":[
+                   {
+                       "name": "Wooden Handicrafts",
+                       "description": "Traditional wooden handicrafts showcasing the rich cultural heritage and craftsmanship of Srikakulam.",
+                       "cost": 1800,
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689430/woodenhandicrafts_usy5ya.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "latitude": 18.30086,
+                           "longitude": 84.22937
+                       },
+                       "address": "Rajam, Srikakulam - 532127",
+                       "sellers": [
+                           {
+                               "name": "Rajam Handicrafts",
+                               "address": "Main Road, Rajam, Srikakulam - 532127",
+                               "contact": "1234567890"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Kalamkari Wall Hangings",
+                       "description": "Traditional hand-painted textiles depicting mythological or folk themes, ideal for adding cultural elegance to your home.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dyjkp0r0x/image/upload/v1716689495/kalamkariwalhangings_slf42y.jpg",
+                       "quantity": "",
+                       "location": {
+                           "latitude": 18.1821,
+                           "longitude": 83.4115
+                       },
+                       "sellers": [
+                           {
+                               "name": "Sri Venkateswara Handlooms",
+                               "address": "Main Road, Palakollu, Srikakulam - 532260",
+                               "contact": "088142 22816"
+                           }
+                       ]
+                   }
+               ]
+                   }
+               ]
+            },
+            {
+               "name":"eastgodavari",
+               "categories":[
+                   {
+                       "name":"food",
+                       "products":[
+       {
+         "name": "Pootharekulu",
+         "desc": "A traditional sweet made from a thin rice starch layer, sugar, and ghee, also known as paper sweet.",
+         "cost": 500,
+         "quantity": "1kg",
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716475376/pootharekulu_frixrj.jpg",
+         "location": {
+           "lat": 16.989065,
+           "long": 82.247465
+         },
+         "address": "Atreyapuram, East Godavari, Andhra Pradesh, 533235",
+         "sellers": [
+           {
+             "name": "Pootharekulu Kakinada",
+             "address": "Main Road, Atreyapuram, East Godavari, Andhra Pradesh, 533235",
+             "contact": "08855 244488"
+           }
+         ]
+       },
+       {
+         "name": "Kakinada Kaaja",
+         "desc": "A famous sweet from Kakinada, known for its crispy layers and juicy syrup.",
+         "cost": 400,
+         "quantity": "1kg",
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716475475/kaja_zism5q.jpg",
+         "location": {
+           "lat": 16.930220,
+           "long": 82.216670
+         },
+         "address": "Kakinada, East Godavari, Andhra Pradesh, 533001",
+         "sellers": [
+           {
+             "name": "Kiran Sweets",
+             "address": "Main Road, Kakinada, East Godavari, Andhra Pradesh, 533001",
+             "contact": "0884 2345678"
+           }
+         ]
+       },
+       {
+         "name": "Muntha Masala",
+         "desc": "A popular street food made from puffed rice, peanuts, and a variety of spices.",
+         "cost": 50,
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716475476/muntha_norc6a.jpg",
+         "quantity": "1 plate",
+         "location": {
+           "lat": 16.540354,
+           "long": 82.002548
+         },
+         "address": "Rajanagaram, East Godavari, Andhra Pradesh, 533294",
+         "sellers": [
+           {
+             "name": "Muntha Masala Center",
+             "address": "Market Road, Rajanagaram, East Godavari, Andhra Pradesh, 533294",
+             "contact": "0883 2233445"
+           }
+         ]
+       },
+       {
+         "name": "Pesarattu",
+         "desc": "A traditional Andhra Pradesh dosa made from green gram (moong dal) batter.",
+   "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716475477/pesarattu_zetwmm.jpg",
+         "cost": 80,
+         "quantity": "1 plate",
+         "location": {
+           "lat": 16.544893,
+           "long": 81.906752
+         },
+         "address": "Ravulapalem, East Godavari, Andhra Pradesh, 533238",
+         "sellers": [
+           {
+             "name": "Pesarattu Point",
+             "address": "Main Road, Ravulapalem, East Godavari, Andhra Pradesh, 533238",
+             "contact": "08855 678901"
+           }
+         ]
+       },
+       {
+         "name": "Natu Kodi Pulusu",
+         "desc": "A traditional spicy chicken curry made with country chicken, known for its rich flavor and aroma.",
+         "cost": 250,
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716475477/natukodi_xsvh8r.jpg",
+         "quantity": "1 plate",
+         "location": {
+           "lat": 16.799401,
+           "long": 81.472625
+         },
+         "address": "Amalapuram, East Godavari, Andhra Pradesh, 533201",
+         "sellers": [
+           {
+             "name": "Spicy House",
+             "address": "Church Road, Amalapuram, East Godavari, Andhra Pradesh, 533201",
+             "contact": "08856 789012"
+           }
+         ]
+       }
+     ]
+                   },
+                   {
+                       "name":"artsAndCrafts",
+                       "products":[]
+                   },
+                   {
+                       "name":"fashionAndApparel",
+                       "products":[
+       {
+         "name": "Uppada Silk Sarees",
+         "desc": "Uppada Silk Sarees are renowned for their lightweight and intricate designs, handwoven with traditional techniques from the town of Uppada in East Godavari.",
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716475891/Default_silk_sarees_3_bghjdq.jpg",
+         "cost": 10000,
+         "quantity": "1 saree",
+         "location": {
+           "lat": 17.0757,
+           "long": 82.2586
+         },
+         "address": "Uppada, East Godavari, Andhra Pradesh, 533448",
+         "sellers": [
+           {
+             "name": "Uppada Saree House",
+             "address": "Main Road, Uppada, East Godavari, Andhra Pradesh, 533448",
+             "contact": "08852-254678"
+           }
+         ]
+       },
+       {
+         "name": "Pochampally Ikkat Sarees",
+         "desc": "Pochampally Ikkat Sarees are famous for their unique dyeing technique and vibrant patterns, handcrafted in the East Godavari district.",
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476327/pochampally-saree_dt2eh4.jpg",
+         "cost": 8000,
+         "quantity": "1 saree",
+         "location": {
+           "lat": 17.3403,
+           "long": 82.2526
+         },
+         "address": "Pochampally, East Godavari, Andhra Pradesh, 533292",
+         "sellers": [
+           {
+             "name": "Pochampally Weavers Cooperative Society",
+             "address": "Pochampally, East Godavari, Andhra Pradesh, 533292",
+             "contact": "08852-267890"
+           }
+         ]
+       },
+       {
+         "name": "Mangalagiri Cotton Fabrics",
+         "desc": "Mangalagiri Cotton Fabrics are known for their durability and fine weave, often used to make sarees and dress materials.",
+         "cost": 1500,
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476159/images_1_kq2pf4.jpg",
+         "quantity": "1 piece",
+         "location": {
+           "lat": 16.7928,
+           "long": 82.2195
+         },
+         "address": "Mangalagiri, East Godavari, Andhra Pradesh, 533233",
+         "sellers": [
+           {
+             "name": "Mangalagiri Handloom Store",
+             "address": "Market Street, Mangalagiri, East Godavari, Andhra Pradesh, 533233",
+             "contact": "08853-234567"
+           }
+         ]
+       },
+       {
+         "name": "Konaseema Cotton Lungis",
+         "desc": "Konaseema Cotton Lungis are popular for their comfort and vibrant colors, traditionally worn by men in the Konaseema region.",
+         "cost": 500,
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476159/images_2_pp4kh7.jpg",
+         "quantity": "1 lungi",
+         "location": {
+           "lat": 16.9604,
+           "long": 82.2387
+         },
+         "address": "Konaseema, East Godavari, Andhra Pradesh, 533461",
+         "sellers": [
+           {
+             "name": "Konaseema Cotton Wear",
+             "address": "Main Bazaar, Konaseema, East Godavari, Andhra Pradesh, 533461",
+             "contact": "08854-345678"
+           }
+         ]
+       },
+       {
+         "name": "Rajahmundry Silk Sarees",
+         "desc": "Rajahmundry Silk Sarees are distinguished by their rich texture and traditional designs, crafted in the city of Rajahmundry.",
+         "cost": 12000,
+         "quantity": "1 saree",
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476162/images_3_uatvtt.jpg",
+         "location": {
+           "lat": 17.0052,
+           "long": 81.7774
+         },
+         "address": "Rajahmundry, East Godavari, Andhra Pradesh, 533101",
+         "sellers": [
+           {
+             "name": "Rajahmundry Silk Emporium",
+             "address": "Fort Gate, Rajahmundry, East Godavari, Andhra Pradesh, 533101",
+             "contact": "0883-4567890"
+           }
+         ]
+       }
+     ]
+                   },
+                   {
+                       "name":"healthAndWellness",
+                       "products":[]
+                   },
+                   {
+                       "name":"homeDecorAndFurnishings",
+                       "products":[
+       {
+         "name": "Handcrafted Bamboo Furniture",
+         "desc": "Beautifully crafted furniture made from locally sourced bamboo, showcasing intricate weaving techniques and sustainable craftsmanship.",
+         "cost": 5500,
+         "quantity": "1 piece",
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476815/download_2_kzrmfm.jpg",
+         "location": {
+           "lat": 16.989065,
+           "long": 82.247465
+         },
+         "address": "Rajahmundry, East Godavari, Andhra Pradesh, 533101"
+       },
+       {
+         "name": "Kondapalli Toys",
+         "desc": "Traditional wooden toys from Kondapalli, known for their vibrant colors and detailed craftsmanship, depicting scenes from daily life and mythology.",
+         "cost": 1200,
+     "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476839/download_3_vj0tpa.jpg",
+         "quantity": "1 set",
+         "location": {
+           "lat": 16.618764,
+           "long": 80.973157
+         },
+         "address": "Kondapalli, East Godavari, Andhra Pradesh, 521228"
+       },
+       {
+         "name": "Pattachitra Wall Art",
+         "desc": "Exquisite Pattachitra paintings featuring mythological narratives and folktales, created using natural dyes and traditional methods.",
+         "cost": 3500,
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476672/images_4_a4okd0.jpg",
+         "quantity": "1 piece",
+         "location": {
+           "lat": 16.712228,
+           "long": 81.090836
+         },
+         "address": "Amalapuram, East Godavari, Andhra Pradesh, 533201"
+       },
+       {
+         "name": "Weaving from Uppada",
+         "desc": "Elegant handwoven Uppada silk rugs, known for their intricate designs and superior craftsmanship, perfect for adding a touch of luxury to any space.",
+         "cost": 7200,
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476671/images_5_pgg1au.jpg",
+         "quantity": "1 rug",
+         "location": {
+           "lat": 17.076940,
+           "long": 82.252502
+         },
+         "address": "Uppada, East Godavari, Andhra Pradesh, 533448"
+       },
+       {
+         "name": "Cheriyal Scroll Paintings",
+         "desc": "Unique scroll paintings from Cheriyal, characterized by their vivid storytelling and traditional art style, ideal for cultural and aesthetic decor.",
+         "url":"https://res.cloudinary.com/dmoasmpg4/image/upload/v1716476672/download_1_aj7ana.jpg",
+         "cost": 2800,
+         "quantity": "1 piece",
+         "location": {
+           "lat": 16.538622,
+           "long": 82.194885
+         },
+         "address": "Kakinada, East Godavari, Andhra Pradesh, 533001"
+       }
+     ]
+                   }
+               ]
+            },
+            {
+               "name":"kurnool",
+               "categories":[
+                   {
+                       "name":"food",
+                       "products":[
+                   {
+                   "name": "Bobbatlu",
+                   "desc": "A popular sweet dish made with a filling of chana dal, jaggery, and cardamom, encased in a thin layer of dough and cooked on a griddle.",
+                   "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499729/d1_ymh7od.jpg",
+                   "location": {
+                       "lat": 15.8281,
+                       "long": 78.0373
+                   },
+                   "address": "Gandhi Nagar, Kurnool, Andhra Pradesh, 518001",
+                   "sellers": [
+                       {
+                           "name": "Akhshaya Bhakshalu",
+                           "address": "Gandhi Nagar, Kurnool, Andhra Pradesh, 518001",
+                           "contact": "08518-245678"
+                       }
+                   ]
+                   },
+                   {
+                   "name": "Katte Pongali",
+                   "desc": "A traditional dish made with rice, moong dal, ghee, and spices, commonly served during festivals and special occasions.",
+                   "cost": 80,
+                   "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499869/d2_zqkx3y.jpg",
+                   "quantity": "1 serving",
+                   "location": {
+                       "lat": 15.478569,
+                       "long": 78.483093
+                   },
+                   "address": "Nandyal Road, Sri Nagar Colony, Kurnool, Andhra Pradesh ,518002",
+                   "sellers": [
+                       {
+                           "name": "Pongali Grand And Basmathi Royal",
+                           "address": "Nandyal Road, Sri Nagar Colony, Kurnool, Andhra Pradesh ,518002"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Kurnool Kaja",
+                       "desc": "A popular sweet made from layered dough, deep-fried and soaked in sugar syrup.",
+                       "cost": 150,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499933/d3_fuiggk.jpg",
+                       "quantity": "500 grams",
+                       "location": {
+                           "lat": 15.404765,
+                           "long": 79.506714
+                       },
+                       "address": "Kanigiri Road, Kandukur,kurnool,523105 ",
+   
+                       "sellers": [
+                           {
+                               "name": "Ramya Sweets & Bakery",
+                               "address": "Kanigiri Road, Kandukur,kurnool,Andhra pradesh,523105",
+                               "contact": "07947115167"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"artsAndCrafts",
+                       "products":[
+                   {
+                       "name": "Banaganapalli Paintings",
+                       "desc": "Traditional paintings from Banaganapalli, known for their vivid colors and intricate details.",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499935/d4_k1ezdr.jpg",
+                       "location": {
+                           "lat": 15.31771,
+                           "long":78.22669
+                       },
+                       "address": "Market Road, Banaganapalli, Kurnool, Andhra Pradesh, 518124",
+                       "sellers": [
+                           {
+                               "name": "Banaganapalli Art Gallery",
+                               "address": "Market Road, Banaganapalli, Kurnool, Andhra Pradesh, 518124"
+                           }
+                       ]
+                   },
+                   
+                   {
+                       "name": "Leather Puppets",
+                       "desc": "Handcrafted leather puppets used in traditional shadow puppetry, known for their intricate designs.",
+                       "cost": 750,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499935/d5_vlpqyr.jpg",
+                       "location": {
+                           "lat": 15.6842,
+                           "long": 78.0435
+                       },
+                       "address": "Nandikotkur, Kurnool, Andhra Pradesh, 518401",
+                       "sellers": [
+                           {
+                               "name": "Nandikotkur Craft House",
+                               "address": "Market Street, Nandikotkur, Andhra Pradesh, 518401",
+                               "contact": "08514-229900"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"fashionAndApparel",
+                       "products": [
+                   {
+                       "name": "Handloom Cotton Dhotis",
+                       "desc": "Traditional handloom cotton dhotis, perfect for formal and casual wear.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499935/d6_bhdb74.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 15.79,
+                           "long": 77.99
+                       },
+                       "address": "RAJ VIHAR CENTER, Kurnool Bazar, Kurnool , Andhra Pradesh, 518001",
+                       "sellers": [
+                           {
+                               "name": "RAMRAJ COTTON EXCLUSIVE SHOWROOM",
+                               "address": "RAJ VIHAR CENTER, Kurnool Bazar, Kurnool , Andhra Pradesh, 518001",
+                               "contact": "07947420252"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Ikat Sarees",
+                       "desc": "Beautifully woven Ikat sarees, known for their geometric patterns and vibrant colors.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499936/d7_iuxnxw.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 15.82,
+                           "long": 78.0425
+                       },
+                       "address": "Minchin Bazar St, Marwari Street, Kurnool, Andhra Pradesh 518001",
+                       "sellers": [
+                           {
+                               "name": "Renuka Silks & Sarees",
+                               "address": "Minchin Bazar St, Marwari Street, Kurnool, Andhra Pradesh 518001",
+                               "contact": "097043 44001"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Pochampally Sarees",
+                       "desc": "Handwoven Pochampally sarees, featuring unique designs and patterns.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499936/d8_i4wt8s.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 15.83,
+                           "long": 78.04
+                       },
+                       "address": "Nehru Road, Bongul Bazar, Khadak Pura, Kurnool, Andhra Pradesh, 518001",
+                       "sellers": [
+                           {
+                               "name": "KANCHEEPURAM RAVOORI SILKS",
+                               "address": "Nehru Road, Bongul Bazar, Khadak Pura, Kurnool, Andhra Pradesh, 518001",
+                               "contact": "089199 25622"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"healthAndWellness",
+                       "products": [
+                   {
+                       "name": "Ayurvedic Oils",
+                       "desc": "Traditional Ayurvedic oils for wellness and therapeutic purposes.",
+                       "cost": 200,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499939/d9_myes4d.jpg",
+                       "quantity": "100 ml",
+                       "location": {
+                           "lat": 15.835580,
+                           "long": 78.05
+                       },
+                       "address": "Old Bus Stand Road, King Market Area, Kurnool, Andhra Pradesh, 518001",
+                       "sellers": [
+                           {
+                               "name": "Sirigiri venkappa Ayurveda Nilayam",
+                               "address": "Old Bus Stand Road, King Market Area, Kurnool, Andhra Pradesh, 518001",
+                               "contact": "092999 96093"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Naturopathy Products",
+                       "desc": "Kurnool is rich in range of naturopathy products for holistic health and wellness.",
+                       "cost": 250,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499940/d10_oyzr5g.jpg",
+                       "quantity": "1 pack",
+                       "location": {
+                           "lat": 15.819900,
+                           "long": 78.0364
+                       },
+                       "address": "Kallur Road, Kurnool, Andhra Pradesh, 518004",
+                       "sellers": [
+                           {
+                               "name": "R.K. Ayurvedic & Psoriasis Research Center",
+                               "address": "Kallur Road, Kurnool, Andhra Pradesh, 518004",
+                               "contact": "088869 22251"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Herbal Teas",
+                       "desc": "A variety of herbal teas for relaxation and health benefits.",
+                       "cost": 150,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499940/d11_ikfutz.jpg",
+                       "quantity": "50 grams",
+                       "location": {
+                           "lat": 15.8183,
+                           "long": 78.0385
+                       },
+                       "address": "Srisailam, Kurnool, Andhra Pradesh, 518101",
+                       "sellers": [
+                           {
+                               "name": "Srisailam Herbal Tea House",
+                               "address": "Srisailam, Andhra Pradesh, 518101",
+                               "contact": "08515-273445"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"homeDecorAndFurnishings",
+                       "products":[
+                   {
+                       "name": "Wooden Furniture",
+                       "desc": "Kurnool is known for its skilled woodworkers who create beautifully carved wooden furniture. Items like chairs, tables, and cabinets often feature intricate carvings and traditional designs.",
+                       "cost": "varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499941/d12_cpsvs3.jpg",
+                       "location": {
+                           "lat": 15.803140,
+                           "long": 78.0335
+                       },
+                       "address": "Shilpa Birla Compound, Gooty Rd, Kurnool, Andhra Pradesh, 518002",
+                       "sellers": [
+                           {
+                               "name": "Royaloak Furniture Kurnool",
+                               "address": "Shilpa Birla Compound, Gooty Rd, Kurnool, Andhra Pradesh, 518002",
+                               "contact": "063669 66943"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Pottery",
+                       "desc": "Kurnool has a rich tradition of pottery making, with artisans producing a variety of clay pots, vases, and decorative items. These pottery items are often hand-painted with intricate designs, making them unique additions to any home.",
+                       "cost": "varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499943/d13_zb1krr.jpg",
+                       "location": {
+                           "lat": 15.819900,
+                           "long": 78.034390
+                       },
+                       "address": "Municipal Complex, Kallur Road, Kurnool, Andhra Pradesh, 518003",
+                       "sellers": [
+                           {
+                               "name": "Classic Ceramics",
+                               "address": "Municipal Complex, Kallur Road, Kurnool, Andhra Pradesh, 518003",
+                               "contact": "090306 48210"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Decorative Mirrors",
+                       "desc": "Decorative mirrors are another specialty of Kurnool. These mirrors come in various shapes and sizes and are often adorned with intricate designs and embellishments, adding a touch of glamour to any space.",
+                       "cost": 6000,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717499944/d14_d2cagr.jpg",
+                       "location": {
+                           "lat": 15.792680,
+                           "long": 77.966339
+                       },
+                       "address": "Bellary Rd, Guru Raghavendra Nagar, Kurnool, Andhra Pradesh,518003",
+                       "sellers": [
+                           {
+                               "name": "Shree Maruti aluminium Glass Works",
+                               "address": "Bellary Rd, Guru Raghavendra Nagar, Kurnool, Andhra Pradesh, 518003",
+                               "contact": "089197 07129"
+                           }
+                       ]
+                   }
+               ]
+                   }
+               ]
+            },
+            {
+               "name":"Ananthapur",
+               "categories":[
+                   {
+                       "name":"food",
+                       "products":[
+                   {
+                       "name": "Gongura Pachadi",
+                       "desc": "A tangy and spicy chutney made from gongura leaves (sorrel leaves). Gongura pachadi is a staple in many households and is typically served with rice and ghee.",
+                       "cost": 55,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505055/samples/f1_kfpvzh.jpg",
+                       "quantity": "250 grams",
+                       "location": {
+                           "lat": 14.679210,
+                           "long": 77.59
+                       },
+                       "address": "Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "Sri Durga Ooragayalu",
+                               "address": "Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh, 515001",
+                               "contact": "094411 89971"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Ragi Sangati",
+                       "desc": "A staple food in the Rayalaseema region, made from finger millet flour (ragi) and rice. It is often served with spicy curries, such as Natukodi (country chicken) curry or leafy green curries, and is known for its nutritional value and filling nature.",
+                       "cost": "1-200",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505057/samples/f2_unir00.jpg",
+                       "quantity": "1 person",
+                       "location": {
+                           "lat": 14.760514,
+                           "long": 77.508254
+                       },
+                       "address": "sreekantam circle, Ananthapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "Palleturi Ruchulu",
+                               "address": "sreekantam circle, Ananthapur, Andhra Pradesh, 515001",
+                               "contact": "083175 15841"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Ananthapur Laddu",
+                       "desc": "A famous sweet made from gram flour, sugar, and ghee, formed into round balls. These laddus are a popular choice during festivals and celebrations.",
+                       "cost": 380,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505066/samples/f3_jjkni3.jpg",
+                       "quantity": "1000 grams",
+                       "location": {
+                           "lat": 14.419760,
+                           "long": 77.714230
+                       },
+                       "address": "Sai Nagar, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "Shirdi Sai Sweets And Bakers",
+                               "address": "Sai Nagar, Anantapur, Andhra Pradesh, 515001 ",
+                               "contact": "089775 88841"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"artsAndCrafts",
+                       "products":[
+                   {
+                       "name": "Lac Bangles",
+                       "desc": "Lacquerware involves coating wooden or metal items with a lacquer finish, often with vibrant colors and designs. Lac bangles from Anantapur are especially popular.",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505070/samples/f4_xzyqgp.jpg",
+                       "location": {
+                           "lat": 14.711100,
+                           "long": 77.57
+                       },
+                       "address": "Kamalanagar, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "ZAM ZAM FANCY STORE",
+                               "address": "Kamalanagar, Anantapur, Andhra Pradesh, 515001",
+                               "contact":"096181 04110"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Kalamkari art",
+                       "desc": "An intricate hand-painted or block-printed textile art, Kalamkari involves the use of natural dyes to create detailed and vibrant patterns. Though traditionally associated with the town of Srikalahasti in the neighboring Chittoor district, Kalamkari art is also practiced in Anantapur.",
+                       "cost": 4000,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505079/samples/f5_x0grjm.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 14.685880,
+                           "long": 77.61
+                       },
+                       "address": "Old Town, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "SRI CHOWDESHWARI TEXTILES",
+                               "address": "Old Town, Anantapur, Andhra Pradesh, 515001",
+                               "contact": "094406 83255"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"fashionAndApparel",
+                       "products":[
+                   {
+                       "name": "Cotton Sarees",
+                       "desc": "Anantapur is known for producing high-quality cotton sarees that are comfortable, durable, and often feature simple yet elegant designs.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505086/samples/f6_ynnr7y.jpg",
+                       "quantity": "1 saree",
+                       "location": {
+                           "lat": 14.711100,
+                           "long": 77.57
+                       },
+                       "address": "Kamalanagar, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "Asha Sarees",
+                               "address": "Kamalanagar, Anantapur, Andhra Pradesh, 515001",
+                               "contact": "094907 67211"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Lac Bangles",
+                       "desc": "Lacquerware involves coating wooden or metal items with a lacquer finish, often with vibrant colors and designs. Lac bangles from Anantapur are especially popular.",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505070/samples/f4_xzyqgp.jpg",
+                       "location": {
+                           "lat": 14.711100,
+                           "long": 77.57
+                       },
+                       "address": "Kamalanagar, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "ZAM ZAM FANCY STORE",
+                               "address": "Kamalanagar, Anantapur, Andhra Pradesh, 515001",
+                               "contact":"096181 04110"
+                           }
+                       ]
+                   }, 
+                   {
+                       "name": "Rayadurg Handlooms",
+                       "desc": "Rayadurg, a town in the Anantapur district, is renowned for its handloom industry, particularly for its production of high-quality cotton and silk sarees.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505092/samples/f7_uw4xaw.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 14.696930,
+                           "long":76.85330
+                       },
+                       "address": "Rayadurg, Ananthapur, Andhra Pradesh, 515865",
+                       "sellers": [
+                           {
+                               "name": "Rayadurg Weavers Cooperative",
+                               "address": "Rayadurg, Ananthapur, Andhra Pradesh, 515865",
+                               "contact": "9618176529"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"healthAndWellness",
+                       "products":[
+                   {
+                       "name": "Pomegranates",
+                       "desc": " Anantapur is known for its pomegranate cultivation, with the region producing high-quality fruits known for their sweet and juicy arils. Pomegranates are rich in antioxidants and are believed to offer various health benefits, including improving heart health and boosting immunity.",
+                       "cost": 130,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505099/samples/f8_jj0fbt.jpg",
+                       "quantity": "1000 grams",
+                       "location": {
+                           "lat": 14.67,
+                           "long": 77.59
+                       },
+                       "address": "Gulzarpet, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "Usman Mango and Pomegranate Farm",
+                               "address": "Gulzarpet, Anantapur, Andhra Pradesh, 515001",
+                               "contact": "08554-234678"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Red Sanders Wood Products",
+                       "desc": " Red sanders (Pterocarpus santalinus) is a rare and valuable tree native to the region, known for its rich red wood. Red sanders wood is used in traditional medicine for its purported health benefits, and products such as red sanders wood oil and extracts are sought after for their medicinal properties",
+                       "cost": 900,
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505106/samples/f9_i7iars.jpg",
+                       "quantity": "1000 grams",
+                       "location": {
+                           "lat": 13.803346,
+                           "long": 77.611
+                       },
+                       "address": " L S Towers, Mehfil Hotel, opp. 15-151-6, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "Anjana Ayurvedic And Herbals",
+                               "address": "L S Towers, Mehfil Hotel, opp. 15-151-6, Anantapur, Andhra Pradesh, 515001",
+                               "contact": "098855 07890"
+                           }
+                       ]
+                   },
+                    {
+                       "name": "Jaggery",
+                       "desc": "Jaggery, a traditional sweetener made from sugarcane juice or palm sap, is widely produced in Anantapur. Unlike refined sugar, jaggery retains some of the nutrients present in the original plant material, making it a healthier alternative for sweetening dishes and beverages.",
+                       "cost": "varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505113/samples/f10_o97xou.jpg",
+                       "quantity": "1000 grams",
+                       "location": {
+                           "lat": 14.686500,
+                           "long": 77.59
+                       },
+                       "address": "Srinivas Nagar, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "Jaggery world",
+                               "address": "Srinivas Nagar, Anantapur, Andhra Pradesh, 515001"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"homeDecorAndFurnishings",
+                       "products": [
+                   {
+                       "name": "Lacquerware",
+                       "desc": "Anantapur is known for its lacquerware, especially the brightly colored bangles. This technique is also applied to create decorative boxes, trays, and other home decor items that feature vibrant patterns and intricate designs.",
+                       "cost": "varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505120/samples/f11_aezntm.jpg",
+                       "location": {
+                           "lat": 14.666420,
+                           "long": 77.58
+                       },
+                       "address": "Rudrampet Bypass, Anantapur, Andhra Pradesh, 515005",
+                       "sellers": [
+                           {
+                               "name": "MYHOME FURNITURE",
+                               "address": "Rudrampet Bypass, Anantapur, Andhra Pradesh 515005",
+                               "contact": "098865 45199"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Stone Carvings",
+                       "desc": "Anantapur is known for its stone carving tradition, with artisans producing intricately carved stone sculptures, panels, and architectural elements. These items can add a touch of elegance and cultural heritage to home interiors.",
+                       "cost": "varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717505126/samples/f12_njg5nb.jpg",
+                       "location": {
+                           "lat": 14.683390,
+                           "long": 77.583
+                       },
+                       "address": "Kalyandurg Bypass Road, Kovur Nagar, Anantapur, Andhra Pradesh, 515001",
+                       "sellers": [
+                           {
+                               "name": "Jyoti Home Decors",
+                               "address": "Kalyandurg Bypass Road, Kovur Nagar, Anantapur, Andhra Pradesh 515001",
+                               "contact": "093937 25235"
+                           }
+                       ]
+                   }
+               ]
+                   }
+               ]
+            },
+            {
+               "name":"Kadapa",
+               "categories":[
+                   {
+                       "name":"food",
+                       "products":[
+                   {
+                       "name": "Rayalaseema Ruchulu",
+                       "desc": "This is a traditional platter featuring a variety of dishes from the Rayalaseema region, including Kadapa. It typically includes items like chapati, pappu (dal), rasam, vegetable curries, and yogurt-based dishes.",
+                       "cost": "200-400",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503621/samples/e1_nnchba.jpg",
+                       "location": {
+                           "lat": 14.452670,
+                           "long": 78.823360
+                       },
+                       "address": "Y.S.Nagar, Kadapa, Andhra Pradesh ,516004",
+                       "sellers": [
+                           {
+                               "name": "Rayalaseema Spice",
+                               "address": "Y.S.Nagar, Kadapa, Andhra Pradesh ,516004"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Ulava Charu",
+                       "desc": "Ulava Charu is a nutritious and tangy stew made from horse gram (ulavalu). It's a popular comfort food in Kadapa, especially during winters. It's typically served with rice or idli.",
+                       "cost": "200-400",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503630/samples/e2_atwg4b.jpg",
+                       "location": {
+                           "lat": 14.464920,
+                           "long": 78.823950
+                       },
+                       "address": "Near Saibaba Theatre, 3/35, Railway Station Rd, Kadapa, Andhra Pradesh ,516002",
+                       "sellers": [
+                           {
+                               "name": "Red Bucket Biryani ",
+                               "address": "Near Saibaba Theatre, 3/35, Railway Station Rd, Kadapa, Andhra Pradesh ,516002",
+                               "contact": "079896 24204"
+                           }
+                       ]
+                   },
+                   
+                   {
+                       "name": "Nellore Chepala Pulusu",
+                       "desc": "Nellore Chepala Pulusu is a spicy and tangy fish curry prepared with Nellore's special spices. It's a popular seafood dish in Kadapa known for its rich flavor.",
+                       "cost": "200-400",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503628/samples/e3_fswfna.jpg",
+                       "quantity": "1 serving",
+                       "location": {
+                           "lat": 14.4671,
+                           "long": 78.8242
+                       },
+                       "address": "R.S. Road, Kadapa, Andhra Pradesh, 516001",
+                       "sellers": [
+                           {
+                               "name": "Andhra Spice Family Restaurant Kadapa City",
+                               "address": "R.S. Road, Kadapa, Andhra Pradesh 516001",
+                               "contact": "088977 05022"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"artsAndCrafts",
+                       "products":[
+                   {
+                       "name": "Kadapa Stone Sculptures",
+                       "desc": "Kadapa is renowned for its intricately carved stone sculptures. Artisans in the region skillfully craft sculptures depicting gods, goddesses, mythological figures, animals, and intricate patterns from locally sourced Kadapa stone. ",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503636/samples/e4_ywwuer.png",
+                       "location": {
+                           "lat": 14.4526,
+                           "long": 78.8233
+                       },
+                       "address": "Ravindra Nagar, Kadapa, Andhra Pradesh ,516001",
+                       "sellers": [
+                           {
+                               "name": "Adharsh Kadapa Stone",
+                               "address": "Ravindra Nagar, Kadapa, Andhra Pradesh ,516001",
+                               "contact": "083741 61415"                     
+                           }
+                               
+                       ]
+                   },
+                    {
+                       "name": "Wood Carving",
+                       "desc": "Kadapa is home to skilled artisans who excel in wood carving. They create beautifully carved wooden furniture, artifacts, and decorative items using traditional techniques passed down through generations.",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503640/samples/e5_tdawi8.jpg",
+                       "location": {
+                           "lat": 14.4526,
+                           "long": 78.8233
+                       },
+                       "address": "Mariyapuram Road, Ravindra Nagar, Kadapa, Andhra Pradesh ,516001",
+                       "sellers": [
+                           {
+                               "name": "MVR CNC Wood Carving",
+                               "address": "Mariyapuram Road, Ravindra Nagar, Kadapa, Andhra Pradesh ,516001",
+                               "contact": "099086 86426"                        }
+                       ]
+                   },
+                   {
+                       "name": "Kadapa Kalamkari",
+                       "desc": "Kalamkari is a traditional art in chittor that involves hand-painting or block-printing intricate designs on textiles using natural dyes.However, Kadapa has its own unique style of Kalamkari, characterized by intricate motifs, mythological themes, and vibrant colors.",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503646/samples/e6_ovjjkh.jpg",
+                       "location": {
+                           "lat": 14.4896,
+                           "long": 78.8228
+                       },
+                       "address": "Cuddapah Ho, Kadapa, Andhra Pradesh , 516001",
+                       "sellers": [
+                           {
+                               "name": "GNR silks",
+                               "address": "Cuddapah Ho, Kadapa, Andhra Pradesh , 516001 "
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"fashionAndApparel",
+                       "products": [
+                   {
+                       "name": "Embroidered Kurtas",
+                       "desc": "Kadapa is known for its embroidered kurtas, which feature delicate hand embroidery, mirror work, and embellishments. These kurtas are made from fabrics like cotton, silk, and linen and are available in a variety of designs and styles, ranging from casual wear to festive attire.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503649/samples/e7_i0xlwn.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 14.467100,
+                           "long": 78.824370
+                       },
+                       "address": "R K Nagar, Co-operative Colony, Kadapa, Andhra Pradesh, 516001",
+                       "sellers": [
+                           {
+                               "name": "SRI KRITHI CREATIONS",
+                               "address": "R K Nagar, Co-operative Colony, Kadapa, Andhra Pradesh, 516001",
+                               "contact": "099632 00288"  
+                               
+                           }
+                       ]
+                   },
+                    {
+                       "name": "Leather Mojris",
+                       "desc": "Kadapa is famous for its handmade leather mojris (traditional Indian footwear). These mojris are crafted by skilled artisans using fine quality leather and traditional techniques. They often feature intricate embroidery, beadwork, and embellishments, adding a touch of elegance to any outfit.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503655/samples/e8_etssly.jpg",
+                       "quantity": "1 piece",
+                       "location": {
+                           "lat": 14.4557,
+                           "long": 78.8201
+                       },
+                       "address": "Ganagapeta, Kadapa, Andhra Pradesh ,516001",
+                       "sellers": [
+                           {
+                               "name": "Lakhani Shoes",
+                               "address": "Ganagapeta, Kadapa, Andhra Pradesh, 516001"  
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Handcrafted Jewelry",
+                       "desc": "Kadapa is home to skilled artisans who create exquisite handcrafted jewelry pieces. These pieces often feature intricate designs, filigree work, and semi-precious stones. Kadapa jewelry includes earrings, necklaces, bangles, and anklets, reflecting the rich cultural heritage of the region.",
+                       "cost": "Varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503661/samples/e9_m5vlmk.jpg",
+                       "location": {
+                           "lat": 14.4557,
+                           "long": 78.8201
+                       },
+                       "address": "Ganagapeta, Kadapa, Andhra Pradesh, 516001",
+                       "sellers": [
+                           {
+                               "name": "Fakhruddin Jewellers",
+                               "address": "Ganagapeta, Kadapa, Andhra Pradesh, 516001"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"healthAndWellness",
+                       "products":[
+                   {
+                       "name": "Organic Foods",
+                       "desc": " Kadapa is home to organic farms and markets that offer a variety of organic foods such as fruits, vegetables, grains, and pulses. Organic foods are free from synthetic pesticides, herbicides, and fertilizers, making them healthier and environmentally friendly.",
+                       "cost": "varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503666/samples/e10_mqb4dk.jpg",
+                       "quantity": "100 grams",
+                       "location": {
+                           "lat": 14.06151,
+                           "long": 78.752410
+                       },
+                       "address": "Kadapa Rythu bazar, near sandhya circle, Andhra Pradesh, 516003",
+                       "sellers": [
+                           {
+                               "name": "ARUN MILLET",
+                               "address": "Kadapa Rythu bazar, near sandhya circle, Andhra Pradesh, 516003"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Siddha Medicines",
+                       "desc": "Siddha medicine, an ancient healing system originating from Tamil Nadu, is also popular in Kadapa. Siddha medicines are made from natural ingredients such as herbs, minerals, and metals and are believed to treat various ailments and improve overall health.",
+                       "cost":"varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503671/samples/e11_adezit.jpg",
+                       "quantity": "100 grams",
+                       "location": {
+                           "lat": 14.4551,
+                           "long": 78.8201
+                       },
+                       "address": "Ganagapeta, Kadapa, Andhra Pradesh, 516001",
+                       "sellers": [
+                           {
+                               "name": "LAKSHMI NAGENDRA AYURVEDIC SHOP",
+                               "address": "Ganagapeta, Kadapa, Andhra Pradesh ,516001",
+                               "contact":"099496 26759"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Mud Therapy",
+                       "desc": "Mud therapy, also known as clay therapy, is practiced in Kadapa for its detoxifying and healing properties. Mud packs and baths are used to draw out toxins from the body, improve circulation, and promote relaxation",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503676/samples/e12_a2wkk5.jpg",
+                       "location": {
+                           "lat": 18.401540,
+                           "long": 76.554670
+                       },
+                       "address": "Prakash Nagar, Kadapa, Andhra Pradesh ,516004",
+                       "sellers": [
+                           {
+                               "name": "Kerala Ayurveda Panchakarma & Rejuvenation Center",
+                               "address": "Prakash Nagar, Kadapa, Andhra Pradesh ,516004",
+                               "contact": "080757 11039"
+                           }
+                       ]
+                   }
+               ]
+                   },
+                   {
+                       "name":"homeDecorAndFurnishings",
+                       "products":[
+                   {
+                       "name": "Kadapa Stone Flooring",
+                       "desc": "Durable and polished black limestone flooring, adding a touch of elegance and sophistication to any space. Known for its smooth finish and rich color, Kadapa stone flooring is both aesthetically pleasing and long-lasting.",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503681/samples/e13_r0fvcm.jpg",
+                        "location": {
+                           "lat": 14.4526,
+                           "long": 78.8233
+                       },
+                       "address": "Ravindra Nagar, Kadapa, Andhra Pradesh ,516001",
+                       "sellers": [
+                           {
+                               "name": "Adharsh Kadapa Stone",
+                               "address": "Ravindra Nagar, Kadapa, Andhra Pradesh ,516001",
+                               "contact": "083741 61415"                        
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Brass Decorative Lamps",
+                       "desc": "Handcrafted brass lamps with detailed designs, ideal for enhancing the ambiance of your home. These lamps reflect traditional craftsmanship and emit a warm, inviting glow.",
+                       "cost": "varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503686/samples/e14_ymzn9z.jpg",
+                       "location": {
+                           "lat": 14.4557,
+                           "long": 78.8201
+                       },
+                       "address": "Ganagapeta, Kadapa, Andhra Pradesh ,516001",
+                       "sellers": [
+                           {
+                               "name": "Deccan Enterprises",
+                               "address": "Ganagapeta, Kadapa, Andhra Pradesh ,516001",
+                               "contact":"089789 36028"
+                           }
+                       ]
+                   },
+                   {
+                       "name": "Kadapa Limestone Lamps",
+                       "desc": "Handcrafted lamps made from Kadapa limestone, emitting a warm and soothing glow. These lamps combine natural beauty with functionality, making them a unique addition to any room.",
+                       "cost": "varies",
+                       "url": "https://res.cloudinary.com/dui7q6cp1/image/upload/v1717503692/samples/e15_mky3ch.jpg",
+                       "location": {
+                           "lat": 14.4557,
+                           "long": 78.8201
+                       },
+                       "address": "Yerramukkapalli, Kadapa, Andhra Pradesh 516003",
+                       "sellers": [
+                           {
+                               "name": "kiran led manufacturing unit",
+                               "address": "Yerramukkapalli, Kadapa, Andhra Pradesh 516003",
+                               "contact":"097030 94539"
+                           }
+                       ]
+                          }
+               ]
+                   }
+               ]
+            }
+         ]
+         },
+         {
+           "name": "Telangana",
+           "districts": [
+             {
+     "name":"Hyderabad",
+     "categories":[
+     { 
+      "name":"food",
+     "products": [
+       {
+         "name": "Hyderabadi Biryani",
+         "desc": "Hyderabadi Biryani is a world-renowned dish made with basmati rice, tender meat (usually chicken or mutton), and a blend of aromatic spices. Cooked in a traditional 'dum' style, it's known for its rich flavor and fragrant aroma.",
+         "cost": 300,
+         "quantity": "serving",
+         "location": {
+           "lat": 17.3850,
+           "long": 78.4867
+         },
+         "address": "Various restaurants in Hyderabad, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718389399/hyd_biriyani_f036hq.jpg",
+         "sellers": [
+           {
+             "name": "Paradise Biryani",
+             "address": "Paradise Circle, Secunderabad, Hyderabad, Telangana, 500003",
+             "contact": "04012345678"
+           }
+         ]
+       }
+     ]
+   },
+   {
+     "name":"artsandcrafts",
+     "products":[
+       {
+         "name": "Bidriware",
+         "desc": "Bidriware is a traditional metal handicraft from Hyderabad, known for its intricate silver inlay work on black metal. The craft often features geometric and floral patterns, making it a popular decorative item.",
+         "cost": 2000,
+         "quantity": "piece",
+         "location": {
+           "lat": 17.3850,
+           "long": 78.4867
+         },
+         "address": "Various craft stores in Hyderabad, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718389344/art_craft_hyd_a2ucqp.jpg",
+         "sellers": [
+           {
+             "name": "Bidri Craft Shop",
+             "address": "Charminar, Hyderabad, Telangana, 500002",
+             "contact": "04012345678"
+           }
+         ]
+       }
+     ]},
+   {
+   "name":"fashionandapparel",
+     "products":[
+       {
+         "name": "Hyderabadi Pearls",
+         "desc": "Hyderabad is famously known as the 'City of Pearls.' The Hyderabadi pearls are renowned for their quality and craftsmanship, often used in making exquisite jewelry pieces.",
+         "cost": 5000,
+         "quantity": "necklace",
+         "location": {
+           "lat": 17.3850,
+           "long": 78.4867
+         },
+         "address": "Various jewelry stores in Hyderabad, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718389359/fashion_hyd_a2cnnd.jpg",
+         "sellers": [
+           {
+             "name": "Mangatrai Pearls & Jewellers",
+             "address": "Basheer Bagh, Hyderabad, Telangana, 500029",
+             "contact": "04012345678"
+           }
+         ]
+       }
+     ]},
+   {
+     "name":"healthandwellness",
+     "products":[
+       {
+         "name": "Unani Medicine",
+         "desc": "Hyderabad is known for its Unani medicine, a traditional form of medicine practiced for centuries. The Unani clinics offer treatments and remedies for various ailments using natural herbs and practices.",
+         "cost": 500,
+         "quantity": "session",
+         "location": {
+           "lat": 17.3850,
+           "long": 78.4867
+         },
+         "address": "Various Unani clinics in Hyderabad, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718389375/health_hyd_oqpdre.jpg",
+         "contact": "04012345678"
+       }
+     ]
+   },
+   {
+     "name":"homedecorandfurnishing",
+     "products":[
+       {
+         "name": "Pochampally Ikat",
+         "desc": "Pochampally Ikat is a traditional handwoven fabric from Telangana, known for its geometric patterns and vibrant colors. It's used for making various home decor items like cushion covers, tablecloths, and curtains.",
+         "cost": 1500,
+         "quantity": "meter",
+         "location": {
+           "lat": 17.3850,
+           "long": 78.4867
+         },
+         "address": "Various handloom stores in Hyderabad, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716567176/Pochampally_Ikat.jpg",
+         "sellers": [
+           {
+             "name": "Pochampally Handloom House",
+             "address": "Abids, Hyderabad, Telangana, 500001",
+             "contact": "04012345678"
+           }
+         ]
+       }
+     ]
+   }
+   ]
+   },
+   {
+     "name":"warangal",
+     "categories":[
+     { 
+      "name":"food",
+     "products": [
+       {
+         "name": " Kakarakaya Curry",
+         "desc": "Warangal Kakarakaya Curry is a traditional dish made with bitter gourd (kakarakaya), cooked with onions, tamarind, and a blend of spices. It's known for its unique bitter-sour flavor and is a local favorite in Warangal.",
+         "cost": 150,
+         "quantity": "serving",
+         "location": {
+           "lat": 17.9784,
+           "long": 79.6006
+         },
+         "address": "Various restaurants in Warangal, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390155/food_war_zvxm6g.jpg",
+         "sellers": [
+           {
+             "name": "Warangal Spice Junction",
+             "address": "Hanamkonda Main Road, Warangal, Telangana, 506001",
+             "contact": "08701234567"
+           }
+         ]
+       }
+   ]
+   },
+   {
+       "name":"artsandcrafts",
+     "products": [
+       {
+         "name": "Brass Sculptures",
+         "desc": "Warangal is famous for its brass sculptures, crafted by skilled artisans. These sculptures often depict mythological figures, animals, and intricate designs, showcasing the rich cultural heritage of the region.",
+         "cost": 2500,
+         "quantity": "sculpture",
+         "location": {
+           "lat": 17.9784,
+           "long": 79.6006
+         },
+         "address": "Various art studios in Warangal, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390110/art_war_zoorm9.jpg",
+         "sellers": [
+           {
+             "name": "Warangal Artisans Guild",
+             "address": "Kazipet Road, Warangal, Telangana, 506002",
+             "contact": "08701234567"
+           }
+         ]
+       }
+   ]
+   },{
+    "name":"fashionandapparel",
+     "products": [
+       {
+         "name": " Pochampally Sarees",
+         "desc": "Warangal Pochampally Sarees are renowned for their intricate ikat designs and vibrant colors. Made from pure silk or cotton, these sarees are a symbol of Telangana's traditional weaving craftsmanship.",
+         "cost": 3000,
+         "quantity": "saree",
+         "location": {
+           "lat": 17.9784,
+           "long": 79.6006
+         },
+         "address": "Pochampally Weavers Cooperative Society, Warangal, Telangana, 506001",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390136/fas_war_wm6qeb.jpg",
+         "sellers": [
+           {
+             "name": "Warangal Handloom Co-op",
+             "address": "Station Road, Warangal, Telangana, 506002",
+             "contact": "08701234567"
+           }
+   ]
+   }
+   ]
+   },{
+     "name":"healthandwellness",
+     "products": [
+       {
+         "name": "Ayurvedic Clinic ",
+         "desc": "Warangal Ayurvedic Clinic offers traditional Ayurvedic treatments and therapies. With experienced practitioners, the clinic provides holistic healthcare solutions using natural herbs and practices.",
+         "cost": 800,
+         "quantity": "session",
+         "location": {
+           "lat": 17.9784,
+           "long": 79.6006
+         },
+         "address": "Ayurvedic Clinic, Warangal, Telangana, 506001",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390206/health_img_l4phaf.jpg",
+         "contact": "08701234567"
+       }]
+   },{
+   "name":"homedecorandfurnishing",
+     "products": [
+       {
+         "name": "Dhokra Artifacts",
+         "desc": "Warangal Dhokra Artifacts are traditional metal crafts made using the lost-wax casting technique. These artifacts feature tribal motifs and are known for their rustic charm and intricate detailing.",
+         "cost": 1200,
+         "quantity": "artifact",
+         "location": {
+           "lat": 17.9784,
+           "long": 79.6006
+         },
+         "address": "Artisan villages near Warangal, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390110/art_war_zoorm9.jpg",
+         "sellers": [
+           {
+             "name": "Warangal Craftworks",
+             "address": "Kakatiya University Road, Warangal, Telangana, 506009",
+             "contact": "08701234567"
+           }
+         ]
+       }
+     ]
+   }
+   ]
+   },{
+   "name":"khammam",
+   "categories":[
+               {
+               "name":"food",
+               "products":[
+   {
+         "name": " Kudumulu",
+         "desc": "Khammam Kudumulu are steamed rice dumplings seasoned with spices, typically served as a breakfast or snack item in Khammam district. They are made from rice flour and are often enjoyed with chutney or curry.",
+         "cost": 100,
+         "quantity": "serving",
+         "location": {
+           "lat": 17.2477,
+           "long": 80.1514
+         },
+         "address": "Various food stalls in Khammam, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390826/food_fopkli.jpg",
+         "sellers": [
+           {
+             "name": "Khammam Delights",
+             "address": "Gandhi Chowk, Khammam, Telangana, 507001",
+             "contact": "08711234567"
+           }
+         ]
+   }
+   ]
+   },{"name":"artsandcrafts",
+   "products":[
+   {
+   "name": "Batik Paintings",
+         "desc": "Khammam Batik Paintings are traditional artworks created using wax-resist dyeing technique. These paintings often depict nature, folklore, and cultural themes, showcasing the artistic talents of the region.",
+         "cost": 1800,
+         "quantity": "painting",
+         "location": {
+           "lat": 17.2477,
+           "long": 80.1514
+         },
+         "address": "Art galleries in Khammam, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390801/arts_iltrae.jpg",
+         "sellers": [
+           {
+             "name": "Khammam Art Hub",
+             "address": "Sarada Nagar, Khammam, Telangana, 507002",
+             "contact": "08711234567"
+           }
+         ]
+   
+   }
+   ]
+   },{
+   "name":"fashionandapparel",
+   "products":[
+   {
+    "name": "Mangalagiri Sarees",
+    "desc": "Khammam Mangalagiri Sarees are handwoven sarees known for their soft texture and distinctive zari border. These sarees are woven with a blend of cotton and silk, making them comfortable yet elegant.",
+         "cost": 2500,
+         "quantity": "saree",
+         "location": {
+           "lat": 17.2477,
+           "long": 80.1514
+         },
+         "address": "Mangalagiri Weavers Cooperative Society, Khammam, Telangana, 507001",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390815/fashion_fitmkl.jpg",
+         "sellers": [
+           {
+             "name": "Khammam Handloom Co-op",
+             "address": "Ashok Nagar, Khammam, Telangana, 507002",
+             "contact": "08711234567"
+           }
+         ]
+   }]
+   },{
+   "name":"healthandwellness",
+   "products":[{
+       "name": "Ayurvedic Wellness Center ",
+         "desc": "Khammam Ayurvedic Wellness Center offers authentic Ayurvedic treatments tailored to individual health needs. It promotes holistic healing through natural therapies and herbal medicines.",
+         "cost": 700,
+         "quantity": "session",
+         "location": {
+           "lat": 17.2477,
+           "long": 80.1514
+         },
+         "address": "Ayurvedic Wellness Center, Khammam, Telangana, 507001",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718390836/health_ppjez8.jpg",
+         "sellers":[{
+         "contact": "08711234567"}]
+   
+   }
+   ]
+   },{"name":"homedecorandfurnishing",
+   "products":[{
+   "name": " Cheriyal Scroll Paintings",
+         "desc": "Khammam Cheriyal Scroll Paintings are traditional narrative art forms depicting mythological stories and folklore. These paintings are characterized by bold colors and intricate detailing, representing the cultural heritage of Telangana.",
+         "cost": 1500,
+         "quantity": "painting",
+         "location": {
+           "lat": 17.2477,
+           "long": 80.1514
+         },
+         "address": "Cheriyal Art Village, Khammam, Telangana, 507002",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1716567265/Khammam_Cheriyal_Scroll_Paintings.jpg",
+         "sellers": [
+           {
+             "name": "Khammam Artisans Collective",
+             "address": "Kothagudem Road, Khammam, Telangana, 507003",
+             "contact": "08711234567"
+           }
+         ]
+   }
+   ]
+   }]},
+   {
+   "name":"jagtial",
+   "categories":[
+               {
+               "name":"food",
+               "products":[
+   {"name": " Jonna Rotte",
+         "desc": "Jagtial Jonna Rotte is a traditional flatbread made from jowar (sorghum) flour. It's typically served with spicy chutney or curry and is a staple food in Jagtial district.",
+         "cost": 80,
+         "quantity": "rotte",
+         "location": {
+           "lat": 18.7923,
+           "long": 78.9120
+         },
+         "address": "Local eateries in Jagtial, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718391399/food_j3pwhq.jpg",
+         "sellers": [
+           {
+             "name": "Jagtial Roti Junction",
+             "address": "Nehru Chowk, Jagtial, Telangana, 505327",
+             "contact": "08711234567"
+           }
+         ]}
+   ]
+   },{
+     "name":"artsandcrafts",
+               "products":[
+   {
+    "name": "Lambadi Embroidery",
+         "desc": "Jagtial Lambadi Embroidery is a traditional craft known for its vibrant thread work and mirror embellishments. It's often used to create stunning textiles like sarees, dupattas, and home decor items.",
+         "cost": 2200,
+         "quantity": "embroidery",
+         "location": {
+           "lat": 18.7923,
+           "long": 78.9120
+         },
+         "address": "Artisan communities in Jagtial, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718391377/art_ftgh6e.jpg",
+         "sellers": [
+           {
+             "name": "Jagtial Craft Emporium",
+             "address": "Rajiv Chowk, Jagtial, Telangana, 505327",
+             "contact": "08711234567"
+           }
+         ]
+   }]
+   },{
+     "name":"fashionandapparel",
+               "products":[
+   {"name": "Ikat Pattu Sarees",
+         "desc": "Jagtial Ikat Pattu Sarees are silk sarees known for their intricate ikat patterns and rich colors. They are handwoven by skilled artisans in Jagtial district, reflecting the region's weaving heritage.",
+         "cost": 3500,
+         "quantity": "saree",
+         "location": {
+           "lat": 18.7923,
+           "long": 78.9120
+         },
+         "address": "Ikat weaving clusters in Jagtial, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718391389/fashion_jbgshf.jpg",
+         "sellers": [
+           {
+             "name": "Jagtial Silk Weavers Co-op",
+             "address": "Shivaji Nagar, Jagtial, Telangana, 505327",
+             "contact": "08711234567"
+           }
+         ]}
+   ]
+   }
+   ,
+   {
+     "name":"healthandwellness",
+            "products":[
+   {"name": "Yoga and Meditation Center ",
+         "desc": "Jagtial Yoga and Meditation Center offers classes and workshops on yoga, meditation, and holistic wellness. It promotes physical and mental well-being through ancient practices.",
+         "cost": 600,
+         "quantity": "session",
+         "location": {
+           "lat": 18.7923,
+           "long": 78.9120
+         },
+         "address": "Yoga Center, Jagtial, Telangana, 505327",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718391414/health_pod0e8.jpg",
+         "contact": "08711234567"}
+   ]
+   },
+   {
+     "name":"homedecorandfurnishing",
+               "products":[
+   {"name": "Jagtial Nirmal Paintings",
+         "desc": "Jagtial Nirmal Paintings are intricate paintings done in the Nirmal style, known for their detailed brushwork and natural dyes. These paintings often depict mythological themes and are used for home decor.",
+         "cost": 2000,
+         "quantity": "painting",
+         "location": {
+           "lat": 18.7923,
+           "long": 78.9120
+         },
+         "address": "Nirmal painting workshops in Jagtial, Telangana",
+         "url": "https://res.cloudinary.com/dguowjidq/image/upload/v1718391427/home_hda5le.jpg",
+         "sellers": [
+           {
+             "name": "Jagtial Artisans Collective",
+             "address": "Gandhi Road, Jagtial, Telangana, 505327",
+             "contact": "08711234567"
+           }
+         ]}
+   ]
+   }
+   ]
+   }
+           ]
+         }
+       ]
+    },
+    {
+       "name":"USA",
+       "states":[]
+    }
+   ]
